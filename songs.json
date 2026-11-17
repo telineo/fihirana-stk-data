@@ -1,7 +1,32 @@
 [
   {
+    "title": "AFAK'OLANA",
+    "author": "RANDRIANANDRAINY Falinirina",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Endrey izany hafalian'ny foko\nafaka toloko\nFa fiainana madio mangarangarana\nmitombo tsy mifarana\n\nKa zotom-po mateza sy maharitra\nno iainako finaritra\nNy olana nianjady teo aloha\nDia lasa afaka avokoa\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Satria, Jesoa mitaiza ahy\nsy manolokolo\nSatria, havaoziny avokoa\nNy foko manontolo\nSatria, alany ny heloko rehetra\nTsy avelany hitoetra\n\nMatoa tsy kivy sy tsy ketrakra\nny aiko\nMatoa ny ventsom-piderana\nno hiraiko\nSatria tsapako ato am-po\nManampy ahy Jesoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny olo-mananjoky dia indreny\nafak'olan-teny\nNy mananjandry koa mientanentana\nfa afak'olan'entana\n\nIzaho kosa tsy manahiahy\nafak'olana am-panahy\nzay manana sy mino an'i Jesoa\nDia afak'olana ao am-po"
+      },
+      {
+        "type": "refrain",
+        "content": "Satria Jesoa no mofon'aina\nvatsy tena ilaiko\nSatria Jesoa no ranon'aina\nAntoky ny aiko\nSatria Jesoa ny hani-mahavoky\nFiainana sy toky\n\nMatoa ny molotro\nMikalo fihobiana\nMatoa ny ati-foko\nMianok'hafaliana\nSatria tsapako ato am-po\nManampy ahy Jesoa"
+      }
+    ],
     "id": 1,
-    "numero": "STKMVO 1",
+    "numero": "STKMVO 1"
+  },
+  {
+    "id": 2,
+    "numero": "STKMVO 2",
     "title": "AFO",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -29,8 +54,8 @@
     ]
   },
   {
-    "id": 2,
-    "numero": "STKMVO 2",
+    "id": 3,
+    "numero": "STKMVO 3",
     "title": "ANDEHA HIZAHA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -54,8 +79,8 @@
     ]
   },
   {
-    "id": 3,
-    "numero": "STKMVO 3",
+    "id": 4,
+    "numero": "STKMVO 4",
     "title": "ANIO MODIA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -75,8 +100,58 @@
     ]
   },
   {
-    "id": 4,
-    "numero": "STKMVO 4",
+    "title": "ANIO RY TOMPO TIA",
+    "author": "RAKOTOARIVONY Noel",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Anio ry Tompo Tia no hanekeko\nHo tompom-piainako Ianao hatreto\nKa ny safidy atolotra ombay hiantefa aminao\nRaiso ho tantanao izao"
+      },
+      {
+        "type": "refrain",
+        "content": "Tompo ô, Tompo, inty ny zanakao\nTompo ô, Tompo raiso anjakao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa marobe tokoa no nahalavo\nKanefa indro izaho fa ravoravo\nKa ny andro lasa maizina nisolo soa finaritra\nNoho Ianao ry Tompo Marina"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny Ranao ry Jesoa no fatotra\nNy tenanao no maty ho avotra\nKa fanirianay ao am-po ho Anao irery Tompo soa\nHibanjina ny hazonao tokoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa ny andro sisa mbola omenao\nIriko indrindra Tompo ho Anao\nKa ny tena, fo, fanahy hiady ho Anao ho sahy\nNoho Ianao tsy hisy hampanahy"
+      }
+    ],
+    "id": 5,
+    "numero": "STKMVO 5"
+  },
+  {
+    "title": "ANKALAZAO NY MPAMONJY",
+    "author": "RALANDIMANANA Andriamiaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Zava-boary tsara indrindra \nizaho sy ianao\n(Tsara izaho sy ianao)\nNohariany hitovy endrika Aminy\n(Mitovy amin'ny Ray)\nAndeha hidera Azy isika \nhanome voninahitra\nAnkalazao Andriamanitra\n(Andriamanitra)"
+      },
+      {
+        "type": "refrain",
+        "content": "Ankalazao ny Mpamonjy, \nlay be indrafo\nTompon'izao rehetra izao\nMendrika ho Azy ny saotra,\nTompo Ray Tsitoha \nka dera haleloia"
+      },
+      {
+        "type": "couplet",
+        "content": "He ny hakanton'izao rehetra izao\n(izao rehetra izao)\nNomeny hanjakako sy hanjakanao\n(Nomeny hanjakana)\nFitiavana, fitahiana, fahasoavan'ny Ray Tsitoha\nMameno ny fiainantsika izao\n(Fiainantsika izao)"
+      }
+    ],
+    "id": 6,
+    "numero": "STKMVO 6"
+  },
+  {
+    "id": 7,
+    "numero": "STKMVO 7",
     "title": "AO BETLEHEMA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -100,8 +175,6 @@
     ]
   },
   {
-    "id": 5,
-    "numero": "STKMVO 5",
     "title": "AOKA HIREHITRA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -116,11 +189,11 @@
       },
       {
         "type": "refrain",
-        "content": "Aoka hirehitra ny jironareo\n\t\tManomboka androany, aoka tsy ho lany\n\t\tHazavao ny tany, vonjeo re !"
+        "content": "Aoka hirehitra ny jironareo\nManomboka androany, aoka tsy ho lany\nHazavao ny tany, vonjeo re !"
       },
       {
         "type": "couplet",
-        "content": "Ry mpiambina ô! Aiza hianareo\n\t\tAoka hirehitra ny jironareo\n\t\tRaha mba azo atao re ento ny jironareo\n\t\tHanazava azy ireo"
+        "content": "Ry mpiambina ô! Aiza hianareo\nAoka hirehitra ny jironareo\nRaha mba azo atao re ento ny jironareo\nHanazava azy ireo"
       },
       {
         "type": "couplet",
@@ -130,11 +203,13 @@
         "type": "couplet",
         "content": "Miala maina, ts'isy antenaina, mivari-lavo, \nMiangavy Vonjeo re!\nRaha mba azo atao re ento ny jironareo\nHanazava azy ireo"
       }
-    ]
+    ],
+    "id": 8,
+    "numero": "STKMVO 8"
   },
   {
-    "id": 6,
-    "numero": "STKMVO 6",
+    "id": 9,
+    "numero": "STKMVO 9",
     "title": "ARARAOTY",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -162,8 +237,8 @@
     ]
   },
   {
-    "id": 7,
-    "numero": "STKMVO 7",
+    "id": 10,
+    "numero": "STKMVO 10",
     "title": "ARO SY TOKY",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -191,8 +266,8 @@
     ]
   },
   {
-    "id": 8,
-    "numero": "STKMVO 8",
+    "id": 11,
+    "numero": "STKMVO 11",
     "title": "AVIA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -212,8 +287,8 @@
     ]
   },
   {
-    "id": 9,
-    "numero": "STKMVO 9",
+    "id": 12,
+    "numero": "STKMVO 12",
     "title": "AZA ELA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -233,8 +308,8 @@
     ]
   },
   {
-    "id": 10,
-    "numero": "STKMVO 10",
+    "id": 13,
+    "numero": "STKMVO 13",
     "title": "AZA MIANDRY AMPITSO",
     "author": "RANDRIAMAROSON Edouard",
     "theme": "fiderana",
@@ -258,8 +333,8 @@
     ]
   },
   {
-    "id": 11,
-    "numero": "STKMVO 11",
+    "id": 14,
+    "numero": "STKMVO 14",
     "title": "BETLEHEMA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -279,8 +354,33 @@
     ]
   },
   {
-    "id": 12,
-    "numero": "STKMVO 12",
+    "id": 15,
+    "numero": "STKMVO 15",
+    "title": "DIAN-KAPOKA",
+    "author": "KT AMBATOVINAKY",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Raha nandinika ny lasako aho\nDifotry ny ota re\nToa nivezivezy hatraiza hatraiza\nTsy nahita izay naleha.\nIlay hazofijalianao\ntoa nodiako tsy hita re\nRehefa lavo aho ankehitriny\nIzay vao niantsoantso hoe vonjeo."
+      },
+      {
+        "type": "couplet",
+        "content": "Hitako ny olatrao\nIzay vao tsapako hatrizao\nDiankapoka teo aminao ry Tompo\nNo nanafaka anay\nIlay ranao soa izay nitete ry Jesoa\nNanadio ny otanay"
+      },
+      {
+        "type": "couplet",
+        "content": "Ry Jesosy Tompo tsara ô,\nMenatra anao aho.\nNoho ilay fitia tsy misy fetra\nIzay natolotrao ho ahy.\nHe nafoinao ny ainao\nMba hisolo voina ahy\nOlo-meloka aho ka mamela\nRaiso re ny foko ho anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Hitako ny olatrao\nIzay vao tsapako hatrizao\nDiankapoka teo aminao ry Tompo\nNo nanafaka anay\nIlay ranao soa izay nitete ry Jesoa\nNanadio ny otanay"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "numero": "STKMVO 16",
     "title": "FA FITIAVANA IANAO",
     "author": "R. Mamitiana",
     "theme": "fiderana",
@@ -300,8 +400,50 @@
     ]
   },
   {
-    "id": 13,
-    "numero": "STKMVO 13",
+    "title": "FA IZAHO KOSA",
+    "author": "",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Fa izaho kosa dia \nhihira ho an’I Jehovah \nKa hihoby ny fahamarinany \nSy hanoa hatrany ny fitsipiny \n(Fa izaho kosa dia)2 \nhihira ho an’I Jehovah \nKa hiantso ny Anarany \nHatram’izao ka ho mandrakizay \ndoria doria"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa fiarovana ho ahy Izy \nvatolampy hery tokoa \nAry fandosirana amin’ny fahoriana \nEny tsy ho menatra intsony aho \nHankalaza Anao Tompo ô \n(eny) amin’ny androko rehetra \nhiainako DS "
+      },
+      {
+        "type": "couplet",
+        "content": "Hihira ho an’i Jehovah \nKa hiantso ny Anarany \nHatramin’izao ka ho mandrakizay doria doria "
+      }
+    ],
+    "id": 17,
+    "numero": "STKMVO 17"
+  },
+  {
+    "title": "FA MENDRIKA AZY NY FIDERANA",
+    "author": "RAZAFIMANANTSOA Fidy",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Fa mendrika Azy ny fiderana,\nmendrika Azy ny fiderana ho Azy e\nFa mendrika Azy ny fiderana,\nmendrika Azy ny fiderana ho Azy e"
+      },
+      {
+        "type": "refrain",
+        "content": "Ny fiderana sy ny Hosana \nno atolotra Azy e\nFa mendrika Azy ny fiderana, \nHaleloia\nOYA OYE, OYA OYE, OYA OYE……\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Jesosy Tompo nanetry tena\nHo avotra sady ho Famonjena ho Ahy e\nIzy nahavita nanolotena,\nNalatsa-drà mba ho famonjena ho Ahy e"
+      }
+    ],
+    "id": 18,
+    "numero": "STKMVO 18"
+  },
+  {
+    "id": 19,
+    "numero": "STKMVO 19",
     "title": "FASANA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -325,29 +467,8 @@
     ]
   },
   {
-    "id": 14,
-    "numero": "STKMVO 14",
-    "title": "FIAINANA VAOVAO",
-    "author": "Misamiadana ANDRIANARIVELO",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Mampanantena, mampanantena, \nmampanantena fiainana\nKanana vaovao no homeny anao \nmoa ve mba horaisinao\nMila mihafy, mila mihafy sarotra mantsy ny lalana\nFa raha mba te hanampiainam-baovao miovà maneke izao"
-      },
-      {
-        "type": "refrain",
-        "content": " \nAza manontany akory hoe : aiza ianao,\nf’Izy no mitantana mitondra ao\nEsory hatreo ny ahiahy f’Izy tsy hiala aminao\nFiainana hafakely tondra-dronono sy tantely\nFiainana tsisy ahiahy lafatra aram-panahy\nEo re no misy ny fiadanam-po tretrika izay tonga ao"
-      },
-      {
-        "type": "couplet",
-        "content": "Miantso anao, miantso anao,\nmiantso ary koa mitalaho\nTsy misy hafoiny ny zanaka tiana \nna ny adala indrindra aza\nManararaotra be tafahoatra rehefa omena fitiavana\nAza manjeny ny andro ho lava miovà maneke izao"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "numero": "STKMVO 15",
+    "id": 20,
+    "numero": "STKMVO 20",
     "title": "FIAINAM-BAOVAO",
     "author": "RANDRIAMBELOMANGA Victor",
     "theme": "fiderana",
@@ -375,8 +496,29 @@
     ]
   },
   {
-    "id": 16,
-    "numero": "STKMVO 16",
+    "id": 21,
+    "numero": "STKMVO 21",
+    "title": "FIAINANA VAOVAO",
+    "author": "Misamiadana ANDRIANARIVELO",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Mampanantena, mampanantena, \nmampanantena fiainana\nKanana vaovao no homeny anao \nmoa ve mba horaisinao\nMila mihafy, mila mihafy sarotra mantsy ny lalana\nFa raha mba te hanampiainam-baovao miovà maneke izao"
+      },
+      {
+        "type": "refrain",
+        "content": " \nAza manontany akory hoe : aiza ianao,\nf’Izy no mitantana mitondra ao\nEsory hatreo ny ahiahy f’Izy tsy hiala aminao\nFiainana hafakely tondra-dronono sy tantely\nFiainana tsisy ahiahy lafatra aram-panahy\nEo re no misy ny fiadanam-po tretrika izay tonga ao"
+      },
+      {
+        "type": "couplet",
+        "content": "Miantso anao, miantso anao,\nmiantso ary koa mitalaho\nTsy misy hafoiny ny zanaka tiana \nna ny adala indrindra aza\nManararaotra be tafahoatra rehefa omena fitiavana\nAza manjeny ny andro ho lava miovà maneke izao"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "numero": "STKMVO 22",
     "title": "FIKIRO JESOA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -400,8 +542,65 @@
     ]
   },
   {
-    "id": 17,
-    "numero": "STKMVO 17",
+    "title": "FIKIRO MAFY",
+    "author": "Dr RAJAONARIVONY Tianarivelo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Na manonja ny fiainanao na feno fanahiana \nAza kivy na ketraka ianao \nNa mavesatra ihany koa ny hazo fijaliana \nIlay Jesosintsika tsy mba mandao"
+      },
+      {
+        "type": "couplet",
+        "content": "Na dia betsaka olana sy mafy ka torovana \nTsy tantin’ny fo ho aiza moa \nMankanesa aty hoy Jesosy Kristy \nFa izaho hanome fitsaharana"
+      },
+      {
+        "type": "refrain",
+        "content": "Atanjaho ny finoana fa na inon-kidona \nIlay Jesosy tsy hamela anao irery e! \nAza mba toa Petera f’izy anie ka nianjera \nTao anaty onjan-drano mahery e!"
+      },
+      {
+        "type": "refrain",
+        "content": "Izy mantsy tsy ampy finoana \nka nisalasala raha sendra olana \nKa ny hafatra apetrako aminao anio \nJesoa no itafio"
+      },
+      {
+        "type": "refrain",
+        "content": "Mivavaha amin’ny Jesosy ianao \nF’Izy ihany no afaka hamonjy anao \nKa fikiro mafy ny tanany matokia \nTiany ianao maminy"
+      },
+      {
+        "type": "couplet",
+        "content": "Miambena ianao fa ny devoly dia masiaka Te hitady izay harapany e! Ka mamitaka anao omeny anao avokoa Ireo rehetra tadiavin’ny fonao e!"
+      },
+      {
+        "type": "couplet",
+        "content": "Dia taritiny ianao ka lalan-diso migodàna No velariny handehananao Angataho ny fanahy hampahery anao Hanazava izay mba hizoranao"
+      },
+      {
+        "type": "refrain",
+        "content": "Atanjaho ny finoana fa na inon-kidona \nIlay Jesosy tsy hamela anao irery e! \nAza mba toa Petera f’izy anie ka nianjera \nTao anaty onjan-drano mahery e!"
+      },
+      {
+        "type": "refrain",
+        "content": "Izy mantsy tsy ampy finoana \nka nisalasala raha sendra olana \nKa ny hafatra apetrako aminao anio \nJesoa no itafio"
+      },
+      {
+        "type": "refrain",
+        "content": "Mivavaha amin’ny Jesosy ianao \nF’Izy ihany no afaka hamonjy anao \nKa fikiro mafy ny tanany matokia \nTiany ianao maminy"
+      },
+      {
+        "type": "couplet",
+        "content": "Mifikira amin’ny Jesoa ianao namako o! (Feo 1) \nMiorena tsara fikiro Jesoa (Feo 2 sy 3)\nAmin’ny Jesoa no apetraho \nNy fanantenanao namako o!"
+      },
+      {
+        "type": "couplet",
+        "content": "Miorena tsara Jeso no fikiro (Feo 4) \nMafy amin’ny Jesosy Kristy \nNy fanantenanao namako o!"
+      }
+    ],
+    "id": 23,
+    "numero": "STKMVO 23"
+  },
+  {
+    "id": 24,
+    "numero": "STKMVO 24",
     "title": "FINOANA LATSAKA AM-PO",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -425,8 +624,33 @@
     ]
   },
   {
-    "id": 18,
-    "numero": "STKMVO 18",
+    "title": "FOANA NY FASANA",
+    "author": "FEO FIHOBIANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Moa henonao ve ? Moa henonao ve\nFa nitsangana ilay Mpanavotra anao\nMoa fantatra ve ? Moa fantantrao ve ?\nFa foana izao ny fasana\nKa hafaliam-be, ka hafaliam-be\nMameno ny tanana re\nFa nitsangana Jesoa Tompo\nKa andeha hiaraka fifaly"
+      },
+      {
+        "type": "refrain",
+        "content": "Izy anie tsy maintsy atolotra\n(Zanak'olona anie dia tsy maintsy hatolotra)\nKa homboina amin'ny hazo fijaliana\nAry hitsangana Izy amin'ny andro fahatelo"
+      },
+      {
+        "type": "refrain",
+        "content": "Izy anie tsy maintsy atolotra\n(Zanak'olona anie dia tsy maintsy hatolotra)\nKa homboina amin'ny hazo fijaliana\nAry hitsangana Izy amin'ny andro fahatelo\n(Afaka hatelona)"
+      },
+      {
+        "type": "couplet",
+        "content": "Moa henonao ve ? Moa henonao ve\nFa nitsangana ilay Mpanavotra anao\nMoa fantatra ve ? Moa fantantrao ve ?\nFa foana izao ny fasana\nKa hafaliam-be, ka hafaliam-be\nMameno ny tanana re\nFa nitsangana Jesoa Tompo\nKa andeha hiaraka fifaly"
+      }
+    ],
+    "id": 25,
+    "numero": "STKMVO 25"
+  },
+  {
+    "id": 26,
+    "numero": "STKMVO 26",
     "title": "HAFA IHANY",
     "author": "Nantenaina RAMIANDRISOA",
     "theme": "fiderana",
@@ -450,8 +674,29 @@
     ]
   },
   {
-    "id": 19,
-    "numero": "STKMVO 19",
+    "title": "HAFALIANA",
+    "author": "",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "He! Tsy haiko ny milaza ny hafaliana tsy omby tratra \nHafaliana hafakely mamy mihoatra noho ny tantely \nFa satria ilay kristy no nitsangana nanavotr’ahy \nNy rany ny ainy no natolony mba hividianany ahy "
+      },
+      {
+        "type": "refrain",
+        "content": "Noentiny, nozakainy lay sazy izay tokony ho ahy \nTsy antery fa tena fitiavana ity zavaboahariny \nHihira aho, hihetsiketsika aho \nhanandratra avo ilay Anarany mamiko \ntsy hadinoiko, hotanako fa famonjena ho ahy "
+      },
+      {
+        "type": "couplet",
+        "content": "He! Na dia niezaka aza ‘lay satana te handrava \nIlay asam-pamonjena, resy izy nihenahena \nFa satria ilay Kristy tsy nihemotra, tsy niahotra \nVitany, efany ny nitondra ilay enta-mavesatra "
+      }
+    ],
+    "id": 27,
+    "numero": "STKMVO 27"
+  },
+  {
+    "id": 28,
+    "numero": "STKMVO 28",
     "title": "HANDOVA PARADISA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -479,8 +724,74 @@
     ]
   },
   {
-    "id": 20,
-    "numero": "STKMVO 20",
+    "title": "HAVAOZIKO",
+    "author": "RAJAONARIVELO Germain",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Havaoziko eto indray izao Fa ny foko dia anao\nAnao Jesoa Malala 'Zay nanavotr'ahy\nNy tsapako Dia isan'andro eo ianao\nMialoha lalana ahy Ny fitiavanao"
+      },
+      {
+        "type": "refrain",
+        "content": "Misaotra Anao,Tena misaotra Anao\nFa mihaino vavaka Azo hitarainana Ianao\nFa na tsy takatray aza Tena sahaza\nIzay fomba rehetra Hamalinao anay"
+      },
+      {
+        "type": "refrain",
+        "content": "Tsy misy, tsisy atakaloko Anao\nNy fahafenoana sy hatsarana avy Aminao\nFantatro fa Mpamonjy Tia loatra Ianao\nTena alahatrao ka matoky Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Na ny alina hatoriako na mifoha maraina aho\nNy tananao mitsotra misakambin'ahy\nFinaritra aho nahatsapa ilay fiadanam-po\nMialoha lalana ahy ny fitiavanao"
+      },
+      {
+        "type": "refrain",
+        "content": "Misaotra Anao,Tena misaotra Anao\nFa mihaino vavaka Azo hitarainana Ianao\nFa na tsy takatray aza Tena sahaza\nIzay fomba rehetra Hamalinao anay"
+      },
+      {
+        "type": "refrain",
+        "content": "Tsy misy, tsisy atakaloko Anao\nNy fahafenoana sy hatsarana avy Aminao\nFantatro fa Mpamonjy Tia loatra Ianao\nTena alahatrao ka matoky Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa olona ihany aho mba malemy indraindray\nDia tsy ela Ianao fa he mibitsika am-panahy\nTsy avelanao fa reko hatrany ny hafatrao\nMialoha lalana ahy ny fitiavanao"
+      },
+      {
+        "type": "refrain",
+        "content": "Misaotra Anao,Tena misaotra Anao\nFa mihaino vavaka Azo hitarainana Ianao\nFa na tsy takatray aza Tena sahaza\nIzay fomba rehetra Hamalinao anay"
+      },
+      {
+        "type": "refrain",
+        "content": "Tsy misy, tsisy atakaloko Anao\nNy fahafenoana sy hatsarana avy Aminao\nFantatro fa Mpamonjy Tia loatra Ianao\nTena alahatrao ka matoky Anao"
+      }
+    ],
+    "id": 29,
+    "numero": "STKMVO 29"
+  },
+  {
+    "title": "HIARINA",
+    "author": "RAMANANTSOA Salomon",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Inoako fa hiantra ahy ianao\nraha toa hibebaka aho\nKa hiarina indray ny foko trotraka\n‘zay nanadino Anao"
+      },
+      {
+        "type": "refrain",
+        "content": "Ka ny anio sy ny hoaviko\napetrako eo an-tananao ry Ray\nho vaovao ny fiainako (ratsy taloha) sy ny fo\n (feno haizina)"
+      },
+      {
+        "type": "couplet",
+        "content": "Inoako Ray fa tsy ho lavinao\nIzaho hanatona Anao\nFa mila Anao hampiarin’ahy indray\n‘lay nidaraboka"
+      }
+    ],
+    "id": 30,
+    "numero": "STKMVO 30"
+  },
+  {
+    "id": 31,
+    "numero": "STKMVO 31",
     "title": "HOSANA NO ASANDRATRAY",
     "author": "Victor RANDRIAMBELOMANGA",
     "theme": "fiderana",
@@ -504,8 +815,108 @@
     ]
   },
   {
-    "id": 21,
-    "numero": "STKMVO 21",
+    "title": "INJANY MISY FEO",
+    "author": "",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "(Injany injany misy feo) 2 fois \n‘njany misy feon’ny miantso hoe: \nAmboary e! amboary ô! \nManamboara lalana \nany an-efitra ho an’I Jehovah DC "
+      },
+      {
+        "type": "couplet",
+        "content": "Manaova lalambe \nany an-tany foana ho an’ Andriamanitsika \nAok’asandratra (ny lohasaha rehetra) 2 fois \n(Dia hiseho ny voninahitr’I Jehovah) 2 fois \nAry ny nofo rehetra hiara mahit’izany "
+      }
+    ],
+    "id": 32,
+    "numero": "STKMVO 32"
+  },
+  {
+    "title": "INJAO MANAKO ANY HO ANY",
+    "author": "",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Injao manako any ho any\nInjao manako any ho any ô ! (x3)\nNy hirandanitra mamy o !"
+      },
+      {
+        "type": "couplet",
+        "content": "Injao manako any ho any ô ! (2x)\nManonjanonja ato ampoko\nMibitsika ahy tsy hitoloko"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny feon’anjely sesehena\nSy olona maro novonjena\nMireondreona aok’izany"
+      },
+      {
+        "type": "couplet",
+        "content": "1ér voix et bass : ha……….\n2ém vox et tenor : haleloia hosana, \nheleloia fiderana\nBasse : haleloia, Hosana ô ! injao"
+      },
+      {
+        "type": "couplet",
+        "content": "Injao manako any ho ho any ô ! (x2)\nManonjanonja ato ampoko\nMibitsika ahy tsy hitoloko "
+      }
+    ],
+    "id": 33,
+    "numero": "STKMVO 33"
+  },
+  {
+    "title": "INTY AHO TOMPO",
+    "author": "",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Inty aho Tompo fa vonona hanao ny asanao \nIanao no niantso Ianao no nifidy ahy vonona aho hatrizao \nTsy hananako anefa ny hery ka tafio ny herinao \nMba ho mpanompo tena mahatoky sitrakao Jeso "
+      },
+      {
+        "type": "refrain",
+        "content": "Atolotro Anao ny foko ny saina sy fanahy koa \nRaiso fa vonona tompo hanao ny asanao \nAtolotro Anao ny foko ny saina ny fanahy koa \nRaiso fa vonona hanompo hanao ny asanao "
+      },
+      {
+        "type": "couplet",
+        "content": "Omeo ahy koa ny fitiavana mba ho fiainako \nHitiavako Anao sy hitiavako ny hafa ho voninahitrao \nTahio aho tsy hosolafaka raha sendra adim-panahy \nHahay hitia sy hanompo ny hafa ho Anao Jeso! "
+      }
+    ],
+    "id": 34,
+    "numero": "STKMVO 34"
+  },
+  {
+    "title": "IZANY MIHITSY",
+    "author": "RALANDIMANANA Andriamihaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Mamitaka avokoa \nizao rehera izao\nMihatsara ivelatsihy \nhamotika anao\nTsy azo ianteherana\nTia tena avokoa\nTsy milaza izay marina\nFa lainga sy fitaka tokoa"
+      },
+      {
+        "type": "refrain",
+        "content": "'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nFa Jesoa Tompo ihany\nno Mampiadana\n'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nKa matokiza ny Tompo ianao\nIzy tsy handao anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa saika lavo aho\nNahatoky loatra ireo\nSakaiza marobe\nizay manodidina ahy\nIndrisy fa nandalo\nireo rehetra ireo\nEo imolotra milaza tia\nFa ny tena tia dia sanatria"
+      },
+      {
+        "type": "refrain",
+        "content": "'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nFa Jesoa Tompo ihany\nno Mampiadana\n'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nKa matokiza ny Tompo ianao\nIzy tsy handao anao"
+      },
+      {
+        "type": "couplet",
+        "content": "'Zay vao tsaroakoa izao\nFa voaozona\nny mahatoky ny\nFisian'ny olona\nHay zava-poana\nIzao rehetra izao\nFa mandalo sy miserana\nTsy misy azo ianteherana"
+      },
+      {
+        "type": "refrain",
+        "content": "'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nFa Jesoa Tompo ihany\nno Mampiadana\n'Zany mihitsy ho aho\nZao tontolo izao\nTandremo fa manimba anao\nKa matokiza ny Tompo ianao\nIzy tsy handao anao"
+      }
+    ],
+    "id": 35,
+    "numero": "STKMVO 35"
+  },
+  {
+    "id": 36,
+    "numero": "STKMVO 36",
     "title": "JEHOVAH TOMPO Ô",
     "author": "RAJAONARIVELO Germain",
     "theme": "fiderana",
@@ -525,8 +936,8 @@
     ]
   },
   {
-    "id": 22,
-    "numero": "STKMVO 22",
+    "id": 37,
+    "numero": "STKMVO 37",
     "title": "JESOSY AVAO RO LALA",
     "author": "TARCIZUS",
     "theme": "fiderana",
@@ -546,8 +957,8 @@
     ]
   },
   {
-    "id": 23,
-    "numero": "STKMVO 23",
+    "id": 38,
+    "numero": "STKMVO 38",
     "title": "KALVARY",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -567,8 +978,8 @@
     ]
   },
   {
-    "id": 24,
-    "numero": "STKMVO 24",
+    "id": 39,
+    "numero": "STKMVO 39",
     "title": "KRISMASY FIADANANA",
     "author": "Nantenaina RAMIANDRISOA",
     "theme": "fiderana",
@@ -588,8 +999,8 @@
     ]
   },
   {
-    "id": 25,
-    "numero": "STKMVO 25",
+    "id": 40,
+    "numero": "STKMVO 40",
     "title": "LALANA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -613,8 +1024,8 @@
     ]
   },
   {
-    "id": 26,
-    "numero": "STKMVO 26",
+    "id": 41,
+    "numero": "STKMVO 41",
     "title": "MAMITA-TENA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -642,8 +1053,8 @@
     ]
   },
   {
-    "id": 27,
-    "numero": "STKMVO 27",
+    "id": 42,
+    "numero": "STKMVO 42",
     "title": "MANDEHA HO AZY",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -663,8 +1074,8 @@
     ]
   },
   {
-    "id": 28,
-    "numero": "STKMVO 28",
+    "id": 43,
+    "numero": "STKMVO 43",
     "title": "MANDRAKIZAY",
     "author": "R. M. Y",
     "theme": "fiderana",
@@ -688,8 +1099,8 @@
     ]
   },
   {
-    "id": 29,
-    "numero": "STKMVO 29",
+    "id": 44,
+    "numero": "STKMVO 44",
     "title": "MANIRY ANAO",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -705,8 +1116,8 @@
     ]
   },
   {
-    "id": 30,
-    "numero": "STKMVO 30",
+    "id": 45,
+    "numero": "STKMVO 45",
     "title": "MANOLORA TENA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -726,8 +1137,8 @@
     ]
   },
   {
-    "id": 31,
-    "numero": "STKMVO 31",
+    "id": 46,
+    "numero": "STKMVO 46",
     "title": "MATAHOTRA VE",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -751,8 +1162,8 @@
     ]
   },
   {
-    "id": 32,
-    "numero": "STKMVO 32",
+    "id": 47,
+    "numero": "STKMVO 47",
     "title": "MESIA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -780,8 +1191,8 @@
     ]
   },
   {
-    "id": 33,
-    "numero": "STKMVO 33",
+    "id": 48,
+    "numero": "STKMVO 48",
     "title": "MIANDRANDRA INONA",
     "author": "FIDEL",
     "theme": "fiderana",
@@ -801,8 +1212,49 @@
     ]
   },
   {
-    "id": 34,
-    "numero": "STKMVO 34",
+    "title": "MIARO NY TOMPO",
+    "author": "RAZAFIMANANTSOA Fidy",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Na mafaitra sy mangidy indrindra\nNy onjam-piainana eto an-tany\nFeno ratra sy fitoamaniana\nNy Tompo miaro ny olony hatrany"
+      },
+      {
+        "type": "couplet",
+        "content": "Feno tsilo avokoa izay aleha\nHaram-bato sy haizina be\nDia maharo ny olony hatrany\nNy Tompo Jesoa"
+      },
+      {
+        "type": "refrain",
+        "content": "Fa ny zanaky ny famonjena\nDia hainy avokoa\nNy rombahin-doza sesehena\nArovan'ilay Tsitoha"
+      },
+      {
+        "type": "refrain",
+        "content": "Na dia hanorotoro aza\nIreo fahavalo sy ireo tsy tia\nDia arovany hatrany hatrany\nNy olony"
+      },
+      {
+        "type": "couplet",
+        "content": "Na lazaina fa hoe ondry adala\nNa ondry nania sy mpirenireny\nAmbaniaina ho tsy mahalala\nilay Tompo Tia no mbola miteny\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Efa fantany ny olony\nTiany loatra ka arovany\nFa mitsinjo hatrany hatrany\nNy Tompo Jesoa\n\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Na roraina sy hosihosena\nFa hoe tsy mahay\nDia ny zanaky ny famonjena\nMiavaka mandrakizay\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Na dia hitora-bato azy ireo\nMpanora-dalàna toy ny taloha\nDia maharo hatrany hatrany\nTompo Jesoa"
+      }
+    ],
+    "id": 49,
+    "numero": "STKMVO 49"
+  },
+  {
+    "id": 50,
+    "numero": "STKMVO 50",
     "title": "MILA ANAO",
     "author": "Nantenaina RAMIANDRISOA",
     "theme": "fiderana",
@@ -826,8 +1278,41 @@
     ]
   },
   {
-    "id": 35,
-    "numero": "STKMVO 35",
+    "title": "MIORENA IANAO",
+    "author": "RAJAONARIVELO Germain",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Fantantsika ny amin’izay \ntsy maintsy hombana, \nny lalana iampitana \nhandovana lanitra \nAdy mafy ny ao ka tsy azontsika ialana \nRaha vonona ny andeha \nmiomana hiaritra "
+      },
+      {
+        "type": "couplet",
+        "content": "Ao Jesoa zay efa santatra ho antsika \nNahefa nahavita nivavaka hatrany \nTanik’andro mahamay na koa hatsiaka \nJesosy efa nahita ny hamafin’izany "
+      },
+      {
+        "type": "refrain",
+        "content": "Fanaovantsoa ny ety \ntanteraho amin’ny fo ny fanompoana \nNa sarotra aza sahia \nfa Jesosy no miantoka anao \nN’inona miseho natao ho zakaina \nmanàna fanantenana \nAoka hafana fo, herezo ny saina \nfa hotahiana ianao "
+      },
+      {
+        "type": "refrain",
+        "content": "Fanaovantsoa ny ety \ntanteraho amin’ny fo ny fanompoana \nNa sarotra aza sahia fa Jesosy no miantoka anao "
+      },
+      {
+        "type": "couplet",
+        "content": "Mamafaza ny voa tsaran’ny finoana \nafara sy anoloan Jesoa miaro anao \nAza atao mahakivy \nraha izay fandotoana \nSahia ka mivonona miorena ianao "
+      },
+      {
+        "type": "couplet",
+        "content": "Raha enjehina na hoe ampahatraina \nfefena sy raràna dia izao no tsarovy \nTsy ela intsony \nf’efa akaiky ilay maraina \nFotoana hijinjana \nny voa tsara afafinao "
+      }
+    ],
+    "id": 51,
+    "numero": "STKMVO 51"
+  },
+  {
+    "id": 52,
+    "numero": "STKMVO 52",
     "title": "MISY FAMONJENA",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -847,8 +1332,71 @@
     ]
   },
   {
-    "id": 36,
-    "numero": "STKMVO 36",
+    "title": "MIVAVAHA",
+    "author": "ANDRIAMIADAMAHATRATRA Miharilaza",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Mivavaha ianao \nka aza mety sasatra \nry nofinidin'Andriamanitra \n\nFa ny Ray Tsitoha hihaino anao \nhihaino fatratra izay maharitra\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny vavakao (ny vavakao) \ntaraina sy talaho \nmiloatra avy ao am-po, \nFa fefika manjo \n\nNy vavakao taraina \natao mandra-maraina \natao mandra-kariva \nna dia efa iva ny herinao \n\nny vavaka no hamaliana anao \nKa hody rariny ihany ny talaho"
+      }
+    ],
+    "id": 53,
+    "numero": "STKMVO 53"
+  },
+  {
+    "title": "MPAMONJY NO TERAKA",
+    "author": "RALANDIMANANA Andriamiaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Mpamonjy no teraka ho anao anio\nMiomana andeha hizaha ka tadidio\nTsy an-tranon'omby na any Betlehema\nilay famonjena"
+      },
+      {
+        "type": "refrain",
+        "content": "SOLO :\nIndro mandona am-ponao anio Jesoa, Vohay\nManiry Izy hitoetra ao\nMeteza ka vohay ny fonao"
+      },
+      {
+        "type": "refrain",
+        "content": "CHOEUR :\nAo am-ponao, vohay re izao\nAnio izao\nFa te hanova ny fiainanao tokoa\nRaiso anio Jesoa ('lay Mesia)"
+      },
+      {
+        "type": "couplet",
+        "content": "2.\nHo ahy sy ho anao ary ho an'izao tontolo izao\nNahtongavany ety raha vonona\nHandray Azy ianao ho Tompo sy Mpamonjy\namin'ny fiainanao"
+      }
+    ],
+    "id": 54,
+    "numero": "STKMVO 54"
+  },
+  {
+    "id": 55,
+    "numero": "STKMVO 55",
+    "title": "NAHOANA E!",
+    "author": "Ratovonoharimampianina Henintsoa",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ny Tompo mitaraina miantso hoe : nahoana e ianareo voafidiko\nNahoana e? ianareo voafidiko , nahoana e no mandà Ahy\nNahoana e, nahoana e?\nNo tampenanao ny masonao, nahoana e no ny sitraponao no natao?\nHadinonao ve ny indrafoko, nahoana e tsy tsapanao ny Fahasoavako"
+      },
+      {
+        "type": "couplet",
+        "content": "Anio Jesoa manontany anao:  nahoana e ianareo mpanompoko\nNahoana e ianareo mpanompoko, nahoana e no tsy tia Ahy?\nNahoana e, nahoana e?\nNo heverinao ho tsy miaro anao Aho satria ve resy ianao?\nTsy fantatrao intsony ve Aho ry ondry ô !!\nMiantso anao moramora Aho"
+      },
+      {
+        "type": "couplet",
+        "content": "Malahelo Aho raha ny oloko\nIzay tiako no mba manadino Ahy\nHonena Aho raha toa ny oloko, izay tiako no voatafika\nFa faly Aho fa faly Aho raha mandresy ny oloko\nFa faly Aho raha miverina Amiko\nNy oloko ny oloko\nEny ho faly izay any an-danitra"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "numero": "STKMVO 56",
     "title": "NANDRAMAKO",
     "author": "Fidy RAZAFIMANANTSOA",
     "theme": "fiderana",
@@ -876,8 +1424,8 @@
     ]
   },
   {
-    "id": 37,
-    "numero": "STKMVO 37",
+    "id": 57,
+    "numero": "STKMVO 57",
     "title": "NANDRAY NY TENY SOA",
     "author": "Misamiadana ANDRIANARIVELO",
     "theme": "fiderana",
@@ -905,8 +1453,82 @@
     ]
   },
   {
-    "id": 38,
-    "numero": "STKMVO 38",
+    "title": "NY FANEKEKO TAMINY",
+    "author": "RALANDIMANANA Andriamihaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ny fanekeko taminy dia fiainana\nFianana sy fiadanana\nKa dia natahotra ahy\nsy nangovitra\nteo anatrehan'ny Anarako izy\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Ny fanekeko taminy dia fiainana\nFiainana sy fiadanana"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny fanekeko taminy dia fiainana\nFianana sy fiadanana\nKa dia natahotra ahy\nsy nangovitra\nteo anatrehan'ny Anarako izy"
+      },
+      {
+        "type": "refrain",
+        "content": "Ny fanekeko taminy dia fiainana\nFiainana sy fiadanana"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny lalan'ny fahamarinana no teo\nteo am-bavany\nAry tsy nisy mba tsy fahamarinana\nteo amin'ny molony\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Tamin'ny fiadanana sy fahitsiana\nNo niarahany nandeha tamiko\nAry maro no nampialany\nTamin'ny helony"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny lalan'ny fahamarinana no teo\nteo am-bavany\nAry tsy nisy mba tsy fahamarinana\nteo amin'ny molony\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Tamin'ny fiadanana sy fahitsiana\nNo niarahany nandeha tamiko\nAry maro no nampialany\nTamin'ny helony"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny fanekeko taminy dia fiainana\nFianana sy fiadanana\nKa dia natahotra ahy\nsy nangovitra\nteo anatrehan'ny Anarako izy"
+      },
+      {
+        "type": "refrain",
+        "content": "Ny fanekeko taminy dia fiainana\nFiainana sy fiadanana"
+      }
+    ],
+    "id": 58,
+    "numero": "STKMVO 58"
+  },
+  {
+    "title": "NY RANY FANDIOVANA",
+    "author": "JORDAN",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Moa hadisoako Jesosy ô ? \nRaha entiko eo Aminao izao \nIreo fahotana mangeja ahy \nafaho aho hanarak'Anao Jesoa "
+      },
+      {
+        "type": "refrain",
+        "content": ""
+      },
+      {
+        "type": "couplet",
+        "content": "Te hiantsoantso aho hoe sambatra \nIzay voavela ny helony \nMiara-misotro amin'i Jesosy \nNy Rany Fandiovana "
+      },
+      {
+        "type": "refrain",
+        "content": "Te hiantsoantso aho hoe sambatra \nIzay voavela ny helony \nMiara-misotro amin'i Jesosy \nNy Rany Fandiovana "
+      }
+    ],
+    "id": 59,
+    "numero": "STKMVO 59"
+  },
+  {
+    "id": 60,
+    "numero": "STKMVO 60",
     "title": "NY ZAVATRA REHETRA",
     "author": "Rinà DIMBINANDRASANA",
     "theme": "fiderana",
@@ -930,572 +1552,6 @@
       {
         "type": "couplet",
         "content": "Ireo talenta maro zay nomenao\nHo enti-manompo\nAnao Ry Jehovah Ray\nKa hiaraka hanatanterak’ilay \nFifaliana ao Aminao"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "numero": "STKMVO 39",
-    "title": "RAHA TSY ATERAKA AO AM-PO",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Tsy hisy fiadanana, tsy hisy fitiavana\nZao tontolo izao raha tsy eo Ianao Andriamanitra\nRaha tsy ateraka indray ao am-pony ianao dia\nHanalavitra handao anao, ilay Betlehema fahizay\nNahaterahanao koa, hanadino anao mandrakizay"
-      },
-      {
-        "type": "refrain",
-        "content": "Ampahatsiahivo an’izao tontolo izao\nIlay Mpamonjy no teraka ho azy ao\nAn-tranon’ombin’i Betleheman’i Jodia\nFa Izy irery no hamaha ny olana sy\nHanavotra ity firenena ity\nKa ambarao koa, teraka i Jesoa, Teraka ao a-mpo"
-      },
-      {
-        "type": "couplet",
-        "content": "Fa hisy fiadanana, sy hisy fitiavana\nZao tontolo izao raha eo Ianao Andriamanitra\nKa dia hateraka indray ao am-pony Ianao dia\nHanatona Anao hidera Anao, ilay Betlehema fahizay\nNahaterahanao koa, dia handray Anao hitsaoka Anao"
-      },
-      {
-        "type": "refrain",
-        "content": "Ka ny Hosana ! Hosana ! ho Anao\nRy ilay Mpamonjy an’izao tontolo izao\nAn-tranon’ombin’i Betleheman’i Jodia\nTeraka ao am-po hamaha ny olana sy\nHanavotra ity firenena ity\nKa ambarao koa, teraka i Jesoa, Teraka ao a-mpo"
-      },
-      {
-        "type": "couplet",
-        "content": "Fa hisy fiadanana, sy hisy fitiavana\nZao tontolo izao raha eo Ianao Andriamanitra\nKa dia hateraka indray ao am-pony ianao dia\nHanatona Anao hidera Anao"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "numero": "STKMVO 40",
-    "title": "RAHA TSY EO IANAO JESOA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Jereo ny Tompo maty ho anao noho ny helokao\nHamonjy anao rahatrizay ho eo antanan-dRay\nMampahonena ahy koa, mangoraka ny fo\nMandresy ny fanahy tokoa, mandrombaka ambom-po"
-      },
-      {
-        "type": "refrain",
-        "content": "Raha tsy eo Ianao Jesoa nanaisotra ny otako\nFa be tokoa zay vita izay hifonako Aminao\nNanenina aho nanombo Anao\nSatria Izaho no meloka\nK’ankehitriny ry Tompo ô, mamelà ahy Ianao"
-      },
-      {
-        "type": "couplet",
-        "content": "Ny Tomponao no hanova anao hanaiky handray Azy\nTsy foiny ianao ho very ery ho lavitra Azy ety\nHatony Izy fa tsy mandà handray anao indray\nNy feony henoy izao hitarika anao"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "numero": "STKMVO 41",
-    "title": "RAIKO Ô",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Raiko ô, te hiverina e, ity zanakao\nEfa feno hadalana, diso lalana nombana\nEfa reraky ny ota, Raiko ô,\nTe hiverina aminao"
-      },
-      {
-        "type": "refrain",
-        "content": "E tsy mendrika ho zanakao aho ry Ray\nVonon’aho ho isan’ny mpanomponao indray\nRaiko ô, Raiko ô, efa heniky ny ditra\nRaiko ô, te hiverina aminao"
-      },
-      {
-        "type": "couplet",
-        "content": "Raiko ô, menatra aho hiseho indray ny endrikao\nNefa Ianao tsy hanasazy fa hamoha vavahady\nKa handray am-pifaliana, Raiko ô\nNy fifonako aminao"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "numero": "STKMVO 42",
-    "title": "RAHOVIANA INDRAY ARY",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Izao rehetra hita maso izao ho levona sy horavana\nRehefa tonga ny foatoana voalazan’ny tantara \nhitsarana antsika\nTs’isy azo antenaina na tazonina avokoa\nAfatsy Andriamanitra Nahary ireo"
-      },
-      {
-        "type": "couplet",
-        "content": "Koa araraoty re zany ora handraisany anao\nFa Izy miantso mora : avia ianao\nDieny izao tapaho ny hevitrao\nRahoviana indray ary iano vao ho avy"
-      },
-      {
-        "type": "couplet",
-        "content": "Dia manatona, ny Tompo anie miandry anao\nKoa faingana izato ianao ho eo Aminy\nMitsotra aminao ny tanany k’isalasala ve\nDia malakia ianao fa sasa-miandry Izy izao"
-      },
-      {
-        "type": "couplet",
-        "content": "Koa mandrosoa ao am-bala ianao ry ondry tsy foiny\nHotinaizany ianao rehefa tonga ao\nKa aza be fanahiana, k’aza manahy ianao\nFa Izy homba hatrany ny olony"
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "numero": "STKMVO 43",
-    "title": "RESY LAHATRA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Teny tena tsotra no nanaitra ahy\nHanatona Anao ry Jesoa Tompo, tena babonao\nTeny tena mamy, feno fahatokiana :\n“Ndeha hanarak’Ahy, hataoko mpanarato olona”"
-      },
-      {
-        "type": "couplet",
-        "content": "Ireo olona malemy sy mijaly am-panahy\nAmpahorian’ilay satana isan’andro izao"
-      },
-      {
-        "type": "couplet",
-        "content": "Efa ela no nandrenesako ny asanao ry Jesoa ô\nNy lalanao mahatalanjona, te hahita anao akaiky aho\nKa hay fantatrao tokoa ny hetahetako Izay ato am-poko\nNjay fe reko injao ilay teny"
-      },
-      {
-        "type": "couplet",
-        "content": "Teny tena tsotra no nanaitra ahy\nHanatona Anao ry Jesoa Tompo, tena babonao"
-      },
-      {
-        "type": "couplet",
-        "content": "Tsy nahalala aho, hay voasoratra izay vitako tety\nNa ny ratsy na koa ny tsara dia voarakitr’any avokoa\nZendana aho fa hay moa misy Ray manara-maso n’aiza n’aiza\nNiady saina aho no tonga Ianao nampahatsiahy ilay antsonao dia:"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "numero": "STKMVO 44",
-    "title": "SAMARITANA",
-    "author": "FIDEL",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Nisy lehilahy iray \navy any Jerosalema \nho any Jeriko\nNandeha tamin’ny lalana mangina"
-      },
-      {
-        "type": "couplet",
-        "content": "Azon’ny jiolahy iray dia nendahiny dia nilaozany\nDia nandalo azy teo koa levita, \nny mpisorona koa dia nahita\nNefa ireo tsy nijanona akory \nmba hamonjy ity olona ory"
-      },
-      {
-        "type": "couplet",
-        "content": "Dia mba lasa ilay Samaritana \nBe fitiavana sy fiantrana\nKa na dia tsy mpiray firenena \nDia nangoraka sady honena"
-      },
-      {
-        "type": "couplet",
-        "content": "Iza moa no tena naman’ity lehilahy\nMoa ve tsy ilay tsara fanahy\nMandehana ianao hoy ny Tompo Jesoa\nKa manaova toa azy koa"
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "numero": "STKMVO 45",
-    "title": "SIRA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Ianareo no fanasina zay mamonto ny tany\nHitoeran’ny Hasina ho fiainany mamy\nVatsy natao haharitra ary koa mba hisedra\nIreo olana maro sy ny alon-drano izay ngeza"
-      },
-      {
-        "type": "refrain",
-        "content": "\nRaha ianareo tsy manao zany asa fa mivaingana hatrany\nDia lasa vato manakana ny fampandrosoana ny hafa\nMba saino kely ny fiainan’ny Tompo Jesoa\nTsy tia tena fa nizara ny fiainantsoa"
-      },
-      {
-        "type": "couplet",
-        "content": "Tsy natao ho fitaratra na dia hita fa tsara\nNatao ho filamatra hanavaozana lalana\nHo levonin’ny hafa mba ho fanantenana\nHampitsiry ny voa izay nafafin’ny Tompo Tsitoh"
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "numero": "STKMVO 46",
-    "title": "SOA NY FIARAHANA",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Hafaliana no mameno ny am-po\nNoho ny fiarahako aminao\nTsy mba misy fifandirana fa soa\nN’aiza n’aiza lalana hombana"
-      },
-      {
-        "type": "couplet",
-        "content": "Mifanohana hatrany isika moa\nMifanarak’hevitra tokoa\nIsika mifanampy, na soa na ny ratsy\nNo tsy hahafoizako anao"
-      },
-      {
-        "type": "couplet",
-        "content": "Nisy fahoriana ady nahamay\nNa koa fifaliana hita indraindray\nN’inona miseho amin’ny fiainako\nDia tsy miala eo Ianao Jesoa"
-      },
-      {
-        "type": "couplet",
-        "content": "Na henjehina aza fa tsy mendrika\nNa ny sombim-piainako ho rendrika\nNy olona rehetra dia efa nandao\nFa dia teo foana ianao"
-      },
-      {
-        "type": "couplet",
-        "content": "Fa soa ny fiarahana, tsy mba nifanary an-dalana\nNahay nifampitantana raha namaky ady sarotra\nFa ny fifankatiavana no niarahatsika hatramin’izay\nKa izao no voady, mandrapahafaty\nTiako foana Ianao Jesoa"
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "numero": "STKMVO 47",
-    "title": "TANO NY FINOANA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Misy ady mbola hataontsika ety\nKoa handeha re hifanampy, hifanolo-tanana\nAdy tsy amin’ny nofo aman-dra fa amin’ny\nFanahy ratsy eny amin’ny rivotra eny"
-      },
-      {
-        "type": "refrain",
-        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
-      },
-      {
-        "type": "couplet",
-        "content": "Efa mihamaizina ny andro izao\nF’efa fefiky ny ota nanalavitra Anao\nRy Jehovah Tompo ô! Mba ampio re ka ombay\nAmin’ilay sandrinao mahery izahay"
-      },
-      {
-        "type": "refrain",
-        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
-      },
-      {
-        "type": "couplet",
-        "content": "Indro momba anao lay Jesosy Tompo\nMahereza mazotoa, hanampy anao Izy\nAry tsy hamela ny mpanompo hiady irery\nAmin’izao mahareta, miambena"
-      },
-      {
-        "type": "refrain",
-        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "numero": "STKMVO 48",
-    "title": "TAO AN-TANANA",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Tao an-tananan’i Betlehema fahiny\nDia nisy Mpanjaka vao teraka iray, nampahonena\nTsy nisy ny tranom-bahiny ka antranon’omby\nNo nampandrosoin’Andriamanitra Ray"
-      },
-      {
-        "type": "couplet",
-        "content": "Fa tao anatin’ny tena nangina\nDia hiran’anjely nanako no re, hira Hosana !\nNanako i Betlehema ka ireo magy aza\nTonga nanatitra zavatra tao"
-      },
-      {
-        "type": "couplet",
-        "content": "Miora sy ny volamena nateriny tao\nIreo zava-manitra maro ‘zay tsy mety lao\nIreo nandohalika sy niankohoka re\nIreo mpiandry ondry tantsaha aza lasa nandeha"
-      },
-      {
-        "type": "couplet",
-        "content": "Nakany betlehema, teraka tany Jesosy\nIndro nanako ny hira, anjely feno hafaliana\nNameno tanana\nResy ny feon’Heroda, indro ny magy namindra\nNisy ny kintana kely, nitondra azy nakeny\nMba hitsaoka Azy"
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "numero": "STKMVO 49",
-    "title": "TAO AMIN’NY LALINA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Tao amin’ny lalina no niantsoako anao Jehovah ô!\nTompo ô! Henoy ny feoko\nAoka ny sofinao hihaino tsara ny feon’ny fifonako\nRaha mandrinik’heloka hianao Jehovah ô!\n Izao no hanajanona Tompo ô!\nFa eo mainao no misy, misy ny famelan-keloka \nmba hatahorana aminao"
-      },
-      {
-        "type": "couplet",
-        "content": "Ny fanahiko miandry ny Tompo\nMihoatra noho ny fiandrin’ny mpiambina maraina\nDia ny fiandrin’ny mpiambina mpiambina maraina.\nManantena an’I Jehovah r’Israely\nFa eo amin’I Jehovah no misy\nfamindram-po sy ny fanavoatana-be."
-      },
-      {
-        "type": "couplet",
-        "content": "Niandry an’I Jehovah aho\nEny niandry azy ny fanahiko\nAry ny teniny no nanantenako"
-      },
-      {
-        "type": "couplet",
-        "content": "Ary Izy no hanavotra ny Israely ho afaka amin’ny, \namin’ny helony ny helony rehetra"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "numero": "STKMVO 50",
-    "title": "TONGA JESOA",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Indro fa terak’anio lay Mpanjaka lehibe \ntonga nofo ho antsika\nMifaia ry velon’o Tompo avo indrindra anie \nHamonjy olo-marobe\nNdeha hitsena sy hidera voninahitra ho Azy"
-      },
-      {
-        "type": "refrain",
-        "content": "Ento ny fanatitrao k’atolory ankehitriny\nZay rehetra foinao omeo Azy tsisy tsiny\nOlo manan-jo tokoa no nanetry tena izao\nEfa reny ny fanaonao manatona Azy ianao"
-      },
-      {
-        "type": "couplet",
-        "content": "Tompo tena mora fo, Izy no atao hoe \nJesoa Tompo tsotra tia mizotra\nAmim-pilaminana tsy mpanao anditr’Izy \nna mpanao barofo koa\nFa handamina ny tontolo zay mba ho velom-bolo"
-      },
-      {
-        "type": "refrain",
-        "content": "Ento ny fanatitrao k’atolory ankehitriny\nZay rehetra foinao omeo Azy tsisy tsiny\nOlo manan-jo tokoa no nanetry tena izao\nEfa reny ny fanaonao manatona Azy ianao"
-      },
-      {
-        "type": "couplet",
-        "content": "Feno fahefana be nefa tsy nirehareha, \nniafy nijaly tsy mba nifaly\nFahoriana no iainany efa fantany avokoa zay rehetra hanjo\nSatria ny Ray no efa mahay ‘zay nataony tety"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "numero": "STKMVO 51",
-    "title": "TSINONTSINONA IZAHAY RY TOMPO ô",
-    "author": "Misamiadana ANDRIANARIVELO",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Inty mibaboka aho, resin’ny Fitia\n    Ka manolotena, raiso ho Anao"
-      },
-      {
-        "type": "refrain",
-        "content": "Raiso ho Anao (tsinontsinon’izahay Ray ô !)\nKa hombay ny Herinao\nKa ny asanay fenoy ny Herinao\nKa ny dera anie ho Anao (voninahitrao) AMEN"
-      },
-      {
-        "type": "couplet",
-        "content": "Ny heloka efa vita hifonako eto izao\n    Ny amiko rehetra, raiso anjakao"
-      },
-      {
-        "type": "couplet",
-        "content": "‘reo namanay koa mba ôvay fo\n    ‘reo izay mania hody Aminao"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "numero": "STKMVO 52",
-    "title": "TOROY NY LALANAO AHO",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Nomena ho anay ny Teninao Andriamanitr’o\nMba ho fiainanay sy ho velona aty anaty koa\nNefa ny zanakao lahitokanao mbola nomenao\nHisolo anay mpanota tsy mendrika Anao"
-      },
-      {
-        "type": "couplet",
-        "content": "Satria tsy foinao tokoa na dia iray aza\nNy hahavery anay, handao ny lalam-boasoritrao\nKa mbola hitadiavanao mpanota hibebaka Aminao\nFa izay mibebaka Aminao no sitrakao"
-      },
-      {
-        "type": "couplet",
-        "content": "Fa tsy mba misy marina aza eny na dia iray\nNy olona eto an-tany koa dia tsy mba mahitsy fo\nKa manomboka izao ry Tompo toroy ny lalana\nF’Ianao no tena Marina"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "numero": "STKMVO 53",
-    "title": "TS’ISY DIKANY",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Ts’isy dikany ny fiainako Tompo ô raha tsy eo Ianao\nNa ny hery sy fahaizako\nTsy misy dikany avokoa na ‘zay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
-      },
-      {
-        "type": "couplet",
-        "content": "Ts’isy dikany ny tenako Tompo ô raha tsy misy Anao\nNa ny anio sy ny ampitsoko\nTsy misy dikany avokoa na ‘zay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
-      },
-      {
-        "type": "refrain",
-        "content": "Toy izany aho rehefa tsy eo Ianao\nMiaina aho fa velon’ahiahy\nMiova avokoa izay faritako ho ahy\nRaha tsy eo Ianao hitantan’ahy\nRaha tsy eo Ianao hiaro ahy\nTsy misy dikany aho raha tsy eo Ianao"
-      },
-      {
-        "type": "couplet",
-        "content": "Ts’isy dikany ny hoaviko, zay rehetra mba hananako\nTompo ô raha eo tsy eo ianao hitahy ahy\nTsy misy dikany avokoa na izay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
-      },
-      {
-        "type": "refrain",
-        "content": "Ny tananao…"
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "numero": "STKMVO 54",
-    "title": "VAVAKA HO AN’NY NOSY",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Tompo ô, raha mivavaka aho anio ho an’ity nosy ity\nRakotra haizina sy feno fihatsaram-belatsihy\nDia niantso mafy Anao ka hifona hitalaho\nHiverenanao ka hamonjy indray ity nosy maminay"
-      },
-      {
-        "type": "couplet",
-        "content": "Tompo ô, mandohalika aho eto anatrehanao\nAndriamanitr’ô ny helokay fafao\nNy herin’ny Fanahy Masinao, Ianao irery no mahavita izao\nKa mifona aminao izaho mitalaho ity nosy ity re mba afaho fa :"
-      },
-      {
-        "type": "couplet",
-        "content": "Mila Anao, tena mila Anao Andriamanitr’o\nAndriamanitr’o, Andriamanitr’o! ô midina ka avia \nhatsory re ny tananao: miala satana! miala satana!"
-      },
-      {
-        "type": "couplet",
-        "content": "Mitalaho, tena mitalaho, Fanahy Masina ô\nFa ny herinao, fa ny herinao no mahavita izao\nKa izao nosinay izao, izay rehetra monina ao\nAndriamanitra ô, apetraka aminao"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "numero": "STKMVO 55",
-    "title": "VEHIVAVY JANGA",
-    "author": "Fidy RAZAFIMANANTSOA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Kianjan’ny tempoly no nisy azy\nKa nitoriteny sy nampianatra ire fariseo\nReo mpanora-dalàna tonga haka fanahy\nKa nitondra vehivavy janga iray azony"
-      },
-      {
-        "type": "refrain",
-        "content": "REF : Vehivavy Janga nefa tsy voapanga\nFa ianao Jesosy no nanafaka\nF’izay tsy nanota taminareo no aoka hirorabato azy\nDia samy lasa izy ireo fa tsy nisy sahy namely\nTs’isy nanameloka anao ve na dia iray akory aza ?\nHoy Jesosy : izaho koa tsy hanameloka anao"
-      },
-      {
-        "type": "couplet",
-        "content": "Amin’ny lalanan’I Mosesy\nDia mandidy antsika hitorabato janga toy izao\nZany no nolazainy mba hakany fanahy\nKa najoro teo alohan’I Jesosy vehivavy"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "numero": "STKMVO 56",
-    "title": "VELONA ATO ANATIKO",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Tsy mba toy izao Jesoa ty lalako raha lavitr’Anao\nF’efa tofoka sy lao izao tontolo izao\nSaingy mbola nisy ny famindram-ponao tamiko\nNanafaka ary koa naneho fitiavana ahy"
-      },
-      {
-        "type": "refrain",
-        "content": "Ankehitriny Tompo ô navotanao aho\n\t\tTamin’ny ady mahamay zay nitsapana ahy\n\t\tKa sahiko miteny hoe : tsy izaho no velona\n\t\tFa Ianao no Velona ato anatiko"
-      },
-      {
-        "type": "couplet",
-        "content": "Raha ny faniriako dia izao: ny ho Anao ry Tompo ô\nHiaraka Aminao tokoa, izay no mamiko\nIndrisy fa maninton’ahy mafy ny amin’izao tontolo izao\nManakana ahy tsy hanao ny asanao"
-      },
-      {
-        "type": "refrain",
-        "content": "Ankehitriny Tompo ô navotanao aho\n\t\tTamin’ny ady mahamay zay nitsapana ahy\n\t\tKa sahiko miteny hoe : tsy izaho no velona\n\t\tFa Ianao no Velona ato anatiko"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "numero": "STKMVO 57",
-    "title": "VOAVELA NY HELOKAO",
-    "author": "Misamiadana ANDRIANARIVELO",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Indro aho homboana ho anao\nZaho ‘lay Tompo Tia nolavinao\nTonga hisolo voina anao\nKa ny rà izay nalatsako famelana ny helokao"
-      },
-      {
-        "type": "couplet",
-        "content": "Vonon’aho hihaino anao\nNa mpanota aza ianao\nNefa menatr’aho hiantsoantso hoe : Tompo ô! sasao\nBe ny otako zay mandifotr’ahy"
-      },
-      {
-        "type": "couplet",
-        "content": "Tompo ô! henoy ny antsoantso izao mitaraina hoe\nJereo ny heloko fa neniko avokoa\nHifonako tokoa ka hiandrandra Anao ity zanakao\nManantena koa ny herin’ny fitiavanao\nNahafoy ny Aiko Aho ho anao\nVoavela ny helokao"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "numero": "STKMVO 58",
-    "title": "VONONA AHO HITORY",
-    "author": "Rinà DIMBINANDRASANA",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Efa sitrakao Ray no niantso anay\nTanaty alinkisa hanambara ny\nFahasoavanao sy ny hatsaranao\nAmin’izao tontolo izao"
-      },
-      {
-        "type": "refrain",
-        "content": "Koa tafio ny herim-po, Fanahy ary saina koa\nFa ny fiderana Anao no tenenin’ny vavako\nKa ny nofo rehetra samy hankalaza\nNy Anarany Masina mandrakizay"
-      },
-      {
-        "type": "couplet",
-        "content": "Ndreto ary izahay vonona tokoa\nMba ho irakao sy history Anao\nEny na ho mora na ho sarotra\nDia vonona tokoa zahay"
-      },
-      {
-        "type": "couplet",
-        "content": "REF"
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "numero": "STKMVO 59",
-    "title": "TANAM-BOKOVOKO",
-    "author": "KT AMBATOVINAKY",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "1. Moa ve fantatrao mpanota ô,\nFa Jesosy Tomponao e\nNisolo voina namonjy anao\nTao Gologota\nKa ny dinitra nipatraka\nAry koa ny Rà nilatsaka\nJereo fa maty nisolo ny helokao"
-      },
-      {
-        "type": "refrain",
-        "content": " Nampijaliana sy noratraina anie Jeso\nNoho ny fitiavany anao\nAvy eo dia nolatsaina sy noesoina koa\nKa niaritra fakam-panahy\nDia nohomboina teo amin-tanambokovoko\nHo famelana ny helokao\nNy rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
-      },
-      {
-        "type": "couplet",
-        "content": "2. Na mpanota sy olo-meloka\nNa manao ny ratsy foana e!\nTsy tiany ho very ianao satria sarobidy\nNisotroany kapoaka 'zay mafaitra sy mangidy\nNy ainy aza nafoiny noho ianao"
-      },
-      {
-        "type": "refrain",
-        "content": " Nampijaliana sy noratraina anie Jeso\nNoho ny fitiavany anao\nAvy eo dia nolatsaina sy noesoina koa\nKa niaritra fakam-panahy\nDia nohomboina teo amin-tanambokovoko\nHo famelana ny helokao\nNy rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
-      },
-      {
-        "type": "couplet",
-        "content": "ouuuu....."
-      },
-      {
-        "type": "couplet",
-        "content": "Ny rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
-      },
-      {
-        "type": "couplet",
-        "content": "Ny rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "numero": "STKMVO 60",
-    "title": "DIAN-KAPOKA",
-    "author": "KT AMBATOVINAKY",
-    "theme": "fiderana",
-    "sections": [
-      {
-        "type": "couplet",
-        "content": "Raha nandinika ny lasako aho\nDifotry ny ota re\nToa nivezivezy hatraiza hatraiza\nTsy nahita izay naleha.\nIlay hazofijalianao\ntoa nodiako tsy hita re\nRehefa lavo aho ankehitriny\nIzay vao niantsoantso hoe vonjeo."
-      },
-      {
-        "type": "couplet",
-        "content": "Hitako ny olatrao\nIzay vao tsapako hatrizao\nDiankapoka teo aminao ry Tompo\nNo nanafaka anay\nIlay ranao soa izay nitete ry Jesoa\nNanadio ny otanay"
-      },
-      {
-        "type": "couplet",
-        "content": "Ry Jesosy Tompo tsara ô,\nMenatra anao aho.\nNoho ilay fitia tsy misy fetra\nIzay natolotrao ho ahy.\nHe nafoinao ny ainao\nMba hisolo voina ahy\nOlo-meloka aho ka mamela\nRaiso re ny foko ho anao"
-      },
-      {
-        "type": "couplet",
-        "content": "Hitako ny olatrao\nIzay vao tsapako hatrizao\nDiankapoka teo aminao ry Tompo\nNo nanafaka anay\nIlay ranao soa izay nitete ry Jesoa\nNanadio ny otanay"
       }
     ]
   },
@@ -1533,29 +1589,431 @@
     ]
   },
   {
-    "id": 62,
-    "numero": "STKMVO 62",
-    "title": "NAHOANA E!",
-    "author": "Ratovonoharimampianina Henintsoa",
+    "title": "RAHA SITRAKAO",
+    "author": "Ny Mpitory",
     "theme": "fiderana",
     "sections": [
       {
         "type": "couplet",
-        "content": "Ny Tompo mitaraina miantso hoe : nahoana e ianareo voafidiko\nNahoana e? ianareo voafidiko , nahoana e no mandà Ahy\nNahoana e, nahoana e?\nNo tampenanao ny masonao, nahoana e no ny sitraponao no natao?\nHadinonao ve ny indrafoko, nahoana e tsy tsapanao ny Fahasoavako"
+        "content": "Raha sitrakao Jesoa toneo ity fo tomany \nTorovandrovan-tsentosento sesilany \nTsy miafina Aminao injao fa te hitroatra \nHanda ny tendrinao tsaroako ho mafy loatra"
       },
       {
         "type": "couplet",
-        "content": "Anio Jesoa manontany anao:  nahoana e ianareo mpanompoko\nNahoana e ianareo mpanompoko, nahoana e no tsy tia Ahy?\nNahoana e, nahoana e?\nNo heverinao ho tsy miaro anao Aho satria ve resy ianao?\nTsy fantatrao intsony ve Aho ry ondry ô !!\nMiantso anao moramora Aho"
+        "content": "Fa ny kapoaka avy aminao tsy maintsy hosotroina \nRaha azonao atao mba satriko ho soloina\nAnefa ngotingoty ihany izany\nfa ny sitrakao Ny sitrakao irery anie Jesoa ny atao"
       },
       {
         "type": "couplet",
-        "content": "Malahelo Aho raha ny oloko\nIzay tiako no mba manadino Ahy\nHonena Aho raha toa ny oloko, izay tiako no voatafika\nFa faly Aho fa faly Aho raha mandresy ny oloko\nFa faly Aho raha miverina Amiko\nNy oloko ny oloko\nEny ho faly izay any an-danitra"
+        "content": "Ny hany iangaviako Anao Jesoa malala \nTolory hery aho mba tsy hisalasala \nFa hiantoraka eo an-tratranao no hitalaho \nSy ahaizako miatrika ady vaovao"
+      },
+      {
+        "type": "couplet",
+        "content": "Anefa moa avy Aminao sa avy aiza \nIty fiainana mangidy ity sakaiza \nMba tendrinao sa valin'otako tokoa \nFa toa manonjanonja efa tsy ho toa"
+      },
+      {
+        "type": "couplet",
+        "content": "Hifonako Aminao re Jesosy ny fahotako \nManimba fo tsy mahasoa ka hialako \nNa tendrinao na valin’ota izao mianjady amiko izao \nMatoky aho fa Ianao Jesoa dia tsy mba mandao"
+      },
+      {
+        "type": "couplet",
+        "content": "Tsy ahoako akory ny ho sambatra eto an-tany \nRaha toa ka   tsirom-pahotana  hatrany ihany \nFa manodoka am-piandohana fa mafaitra \nNy fiafarany ka mihatra vao manaitra"
       }
-    ]
+    ],
+    "id": 62,
+    "numero": "STKMVO 62"
   },
   {
     "id": 63,
     "numero": "STKMVO 63",
+    "title": "RAHA TSY ATERAKA AO AM-PO",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tsy hisy fiadanana, tsy hisy fitiavana\nZao tontolo izao raha tsy eo Ianao Andriamanitra\nRaha tsy ateraka indray ao am-pony ianao dia\nHanalavitra handao anao, ilay Betlehema fahizay\nNahaterahanao koa, hanadino anao mandrakizay"
+      },
+      {
+        "type": "refrain",
+        "content": "Ampahatsiahivo an’izao tontolo izao\nIlay Mpamonjy no teraka ho azy ao\nAn-tranon’ombin’i Betleheman’i Jodia\nFa Izy irery no hamaha ny olana sy\nHanavotra ity firenena ity\nKa ambarao koa, teraka i Jesoa, Teraka ao a-mpo"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa hisy fiadanana, sy hisy fitiavana\nZao tontolo izao raha eo Ianao Andriamanitra\nKa dia hateraka indray ao am-pony Ianao dia\nHanatona Anao hidera Anao, ilay Betlehema fahizay\nNahaterahanao koa, dia handray Anao hitsaoka Anao"
+      },
+      {
+        "type": "refrain",
+        "content": "Ka ny Hosana ! Hosana ! ho Anao\nRy ilay Mpamonjy an’izao tontolo izao\nAn-tranon’ombin’i Betleheman’i Jodia\nTeraka ao am-po hamaha ny olana sy\nHanavotra ity firenena ity\nKa ambarao koa, teraka i Jesoa, Teraka ao a-mpo"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa hisy fiadanana, sy hisy fitiavana\nZao tontolo izao raha eo Ianao Andriamanitra\nKa dia hateraka indray ao am-pony ianao dia\nHanatona Anao hidera Anao"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "numero": "STKMVO 64",
+    "title": "RAHA TSY EO IANAO JESOA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Jereo ny Tompo maty ho anao noho ny helokao\nHamonjy anao rahatrizay ho eo antanan-dRay\nMampahonena ahy koa, mangoraka ny fo\nMandresy ny fanahy tokoa, mandrombaka ambom-po"
+      },
+      {
+        "type": "refrain",
+        "content": "Raha tsy eo Ianao Jesoa nanaisotra ny otako\nFa be tokoa zay vita izay hifonako Aminao\nNanenina aho nanombo Anao\nSatria Izaho no meloka\nK’ankehitriny ry Tompo ô, mamelà ahy Ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny Tomponao no hanova anao hanaiky handray Azy\nTsy foiny ianao ho very ery ho lavitra Azy ety\nHatony Izy fa tsy mandà handray anao indray\nNy feony henoy izao hitarika anao"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "numero": "STKMVO 65",
+    "title": "RAHOVIANA INDRAY ARY",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Izao rehetra hita maso izao ho levona sy horavana\nRehefa tonga ny foatoana voalazan’ny tantara \nhitsarana antsika\nTs’isy azo antenaina na tazonina avokoa\nAfatsy Andriamanitra Nahary ireo"
+      },
+      {
+        "type": "couplet",
+        "content": "Koa araraoty re zany ora handraisany anao\nFa Izy miantso mora : avia ianao\nDieny izao tapaho ny hevitrao\nRahoviana indray ary iano vao ho avy"
+      },
+      {
+        "type": "couplet",
+        "content": "Dia manatona, ny Tompo anie miandry anao\nKoa faingana izato ianao ho eo Aminy\nMitsotra aminao ny tanany k’isalasala ve\nDia malakia ianao fa sasa-miandry Izy izao"
+      },
+      {
+        "type": "couplet",
+        "content": "Koa mandrosoa ao am-bala ianao ry ondry tsy foiny\nHotinaizany ianao rehefa tonga ao\nKa aza be fanahiana, k’aza manahy ianao\nFa Izy homba hatrany ny olony"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "numero": "STKMVO 66",
+    "title": "RAIKO Ô",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Raiko ô, te hiverina e, ity zanakao\nEfa feno hadalana, diso lalana nombana\nEfa reraky ny ota, Raiko ô,\nTe hiverina aminao"
+      },
+      {
+        "type": "refrain",
+        "content": "E tsy mendrika ho zanakao aho ry Ray\nVonon’aho ho isan’ny mpanomponao indray\nRaiko ô, Raiko ô, efa heniky ny ditra\nRaiko ô, te hiverina aminao"
+      },
+      {
+        "type": "couplet",
+        "content": "Raiko ô, menatra aho hiseho indray ny endrikao\nNefa Ianao tsy hanasazy fa hamoha vavahady\nKa handray am-pifaliana, Raiko ô\nNy fifonako aminao"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "numero": "STKMVO 67",
+    "title": "RESY LAHATRA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Teny tena tsotra no nanaitra ahy\nHanatona Anao ry Jesoa Tompo, tena babonao\nTeny tena mamy, feno fahatokiana :\n“Ndeha hanarak’Ahy, hataoko mpanarato olona”"
+      },
+      {
+        "type": "couplet",
+        "content": "Ireo olona malemy sy mijaly am-panahy\nAmpahorian’ilay satana isan’andro izao"
+      },
+      {
+        "type": "couplet",
+        "content": "Efa ela no nandrenesako ny asanao ry Jesoa ô\nNy lalanao mahatalanjona, te hahita anao akaiky aho\nKa hay fantatrao tokoa ny hetahetako Izay ato am-poko\nNjay fe reko injao ilay teny"
+      },
+      {
+        "type": "couplet",
+        "content": "Teny tena tsotra no nanaitra ahy\nHanatona Anao ry Jesoa Tompo, tena babonao"
+      },
+      {
+        "type": "couplet",
+        "content": "Tsy nahalala aho, hay voasoratra izay vitako tety\nNa ny ratsy na koa ny tsara dia voarakitr’any avokoa\nZendana aho fa hay moa misy Ray manara-maso n’aiza n’aiza\nNiady saina aho no tonga Ianao nampahatsiahy ilay antsonao dia:"
+      }
+    ]
+  },
+  {
+    "title": "ROJOM-BAVAKA",
+    "author": "RALANDIMANANA Andriamiaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ray ô, jereonao ny fiangonanao\nHiray saina amin'ny fanompoana Anao\nTsy hisy hizarazara, tsy hisy hifankahala\nMba ho iray ihany izy rehetra"
+      },
+      {
+        "type": "couplet",
+        "content": "Hiasa hampandroso ny fitoriana\nHikely aina, tsy hitandro hasasarana\nToy ny rantsana sy taho, tsy misaraka Aminao\nHo fiangonana iray mandrakizay"
+      },
+      {
+        "type": "refrain",
+        "content": "RAY Ô MBA HENOINAO NY VAVAKAY\nMITALAHO AMINAO VALIO RE ZAHAY\nRAY Ô MBA HENOINAO NY VAVAKAY\nMITALAHO AMINAO VALIO RE ZAHAY"
+      },
+      {
+        "type": "couplet",
+        "content": "Ray ô, indrisy ity firenenay\nHanjakan'ny asan'i satana\nMifandrafy miady an-trano, mifampiandany izahay\nTsy mba misy afaka mifandefitra"
+      },
+      {
+        "type": "couplet",
+        "content": "Ray ô tsy misy afa-tsy Ianao\nNo afaka hanasitrana ity nosinay\nAfaho anatin'ny geja, sitrano re izahay\nSitranonao re ry Ray i Madagasikara"
+      },
+      {
+        "type": "couplet",
+        "content": "Ray ô, ny tokantranonay tsirairay\nAnjakao fa tena mila Anao izahay\nAnkohonana hijoro, tsy ho rava tsy hikoro\nHamafisin'ny firaisana Aminao"
+      },
+      {
+        "type": "couplet",
+        "content": "Hianao ry Tompo no vatofantsika\nIorenan'ny tsirairay aminay\nNa misy ny rivodoza na mamely ny tafiotra\nMijoro hatrany Aminao zahay Ray Malala ô"
+      }
+    ],
+    "id": 68,
+    "numero": "STKMVO 68"
+  },
+  {
+    "title": "RY JESOA MAMIN'NY FOKO",
+    "author": "RANAIVOMBELOARISOA Roger",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ry Jesoa mamin'ny foko \nNy avotra 'zay vitanao \nAvotra tena tsy foiko \nMitondra aina vaovao "
+      },
+      {
+        "type": "refrain",
+        "content": "Inona no hampanahy \nJeso, mpamonjy no ahy \n'Zaho dia tretrika am-po \nFa Jesoa tia ahy tokoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny otako manapitrisa \nNentiny tao kalvary \nLovako ny Paradisa \nFonena mamiko ery "
+      },
+      {
+        "type": "refrain",
+        "content": "Inona no hampanahy \nJeso, mpamonjy no ahy \n'Zaho dia tretrika am-po \nFa Jesoa tia ahy tokoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Ry Jesoa, zay fototr'aiko \nMisaotr'indrindra Anao \nNy hany mba ho lazaiko \nOneno ny foko izao "
+      },
+      {
+        "type": "refrain",
+        "content": "Inona no hampanahy \nJeso, mpamonjy no ahy \n'Zaho dia tretrika am-po \nFa Jesoa tia ahy tokoa"
+      }
+    ],
+    "id": 69,
+    "numero": "STKMVO 69"
+  },
+  {
+    "id": 70,
+    "numero": "STKMVO 70",
+    "title": "SAMARITANA",
+    "author": "FIDEL",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Nisy lehilahy iray \navy any Jerosalema \nho any Jeriko\nNandeha tamin’ny lalana mangina"
+      },
+      {
+        "type": "couplet",
+        "content": "Azon’ny jiolahy iray dia nendahiny dia nilaozany\nDia nandalo azy teo koa levita, \nny mpisorona koa dia nahita\nNefa ireo tsy nijanona akory \nmba hamonjy ity olona ory"
+      },
+      {
+        "type": "couplet",
+        "content": "Dia mba lasa ilay Samaritana \nBe fitiavana sy fiantrana\nKa na dia tsy mpiray firenena \nDia nangoraka sady honena"
+      },
+      {
+        "type": "couplet",
+        "content": "Iza moa no tena naman’ity lehilahy\nMoa ve tsy ilay tsara fanahy\nMandehana ianao hoy ny Tompo Jesoa\nKa manaova toa azy koa"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "numero": "STKMVO 71",
+    "title": "SIRA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ianareo no fanasina zay mamonto ny tany\nHitoeran’ny Hasina ho fiainany mamy\nVatsy natao haharitra ary koa mba hisedra\nIreo olana maro sy ny alon-drano izay ngeza"
+      },
+      {
+        "type": "refrain",
+        "content": "\nRaha ianareo tsy manao zany asa fa mivaingana hatrany\nDia lasa vato manakana ny fampandrosoana ny hafa\nMba saino kely ny fiainan’ny Tompo Jesoa\nTsy tia tena fa nizara ny fiainantsoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Tsy natao ho fitaratra na dia hita fa tsara\nNatao ho filamatra hanavaozana lalana\nHo levonin’ny hafa mba ho fanantenana\nHampitsiry ny voa izay nafafin’ny Tompo Tsitoh"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "numero": "STKMVO 72",
+    "title": "SOA NY FIARAHANA",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Hafaliana no mameno ny am-po\nNoho ny fiarahako aminao\nTsy mba misy fifandirana fa soa\nN’aiza n’aiza lalana hombana"
+      },
+      {
+        "type": "couplet",
+        "content": "Mifanohana hatrany isika moa\nMifanarak’hevitra tokoa\nIsika mifanampy, na soa na ny ratsy\nNo tsy hahafoizako anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Nisy fahoriana ady nahamay\nNa koa fifaliana hita indraindray\nN’inona miseho amin’ny fiainako\nDia tsy miala eo Ianao Jesoa"
+      },
+      {
+        "type": "couplet",
+        "content": "Na henjehina aza fa tsy mendrika\nNa ny sombim-piainako ho rendrika\nNy olona rehetra dia efa nandao\nFa dia teo foana ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa soa ny fiarahana, tsy mba nifanary an-dalana\nNahay nifampitantana raha namaky ady sarotra\nFa ny fifankatiavana no niarahatsika hatramin’izay\nKa izao no voady, mandrapahafaty\nTiako foana Ianao Jesoa"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "numero": "STKMVO 73",
+    "title": "TANAM-BOKOVOKO",
+    "author": "KT AMBATOVINAKY",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "1. Moa ve fantatrao mpanota ô,\nFa Jesosy Tomponao e\nNisolo voina namonjy anao\nTao Gologota\nKa ny dinitra nipatraka\nAry koa ny Rà nilatsaka\nJereo fa maty nisolo ny helokao"
+      },
+      {
+        "type": "refrain",
+        "content": " Nampijaliana sy noratraina anie Jeso\nNoho ny fitiavany anao\nAvy eo dia nolatsaina sy noesoina koa\nKa niaritra fakam-panahy\nDia nohomboina teo amin-tanambokovoko\nHo famelana ny helokao\nNy rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
+      },
+      {
+        "type": "couplet",
+        "content": "2. Na mpanota sy olo-meloka\nNa manao ny ratsy foana e!\nTsy tiany ho very ianao satria sarobidy\nNisotroany kapoaka 'zay mafaitra sy mangidy\nNy ainy aza nafoiny noho ianao"
+      },
+      {
+        "type": "refrain",
+        "content": " Nampijaliana sy noratraina anie Jeso\nNoho ny fitiavany anao\nAvy eo dia nolatsaina sy noesoina koa\nKa niaritra fakam-panahy\nDia nohomboina teo amin-tanambokovoko\nHo famelana ny helokao\nNy rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
+      },
+      {
+        "type": "couplet",
+        "content": "ouuuu....."
+      },
+      {
+        "type": "couplet",
+        "content": "Ny rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny rany soa 'zay nalatsaka sy nitete\nNanavotany ahy sy anao e!"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "numero": "STKMVO 74",
+    "title": "TANO NY FINOANA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Misy ady mbola hataontsika ety\nKoa handeha re hifanampy, hifanolo-tanana\nAdy tsy amin’ny nofo aman-dra fa amin’ny\nFanahy ratsy eny amin’ny rivotra eny"
+      },
+      {
+        "type": "refrain",
+        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
+      },
+      {
+        "type": "couplet",
+        "content": "Efa mihamaizina ny andro izao\nF’efa fefiky ny ota nanalavitra Anao\nRy Jehovah Tompo ô! Mba ampio re ka ombay\nAmin’ilay sandrinao mahery izahay"
+      },
+      {
+        "type": "refrain",
+        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
+      },
+      {
+        "type": "couplet",
+        "content": "Indro momba anao lay Jesosy Tompo\nMahereza mazotoa, hanampy anao Izy\nAry tsy hamela ny mpanompo hiady irery\nAmin’izao mahareta, miambena"
+      },
+      {
+        "type": "refrain",
+        "content": "Mifahara ary mivonona ianao\n\t\tMitafia ny herin’ny Fanahy koa\n\t\tTano ny finoana ho ampinga entinao\n\t\tHandresena ny asa ratsin’izao"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "numero": "STKMVO 75",
+    "title": "TAO AMIN’NY LALINA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tao amin’ny lalina no niantsoako anao Jehovah ô!\nTompo ô! Henoy ny feoko\nAoka ny sofinao hihaino tsara ny feon’ny fifonako\nRaha mandrinik’heloka hianao Jehovah ô!\n Izao no hanajanona Tompo ô!\nFa eo mainao no misy, misy ny famelan-keloka \nmba hatahorana aminao"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny fanahiko miandry ny Tompo\nMihoatra noho ny fiandrin’ny mpiambina maraina\nDia ny fiandrin’ny mpiambina mpiambina maraina.\nManantena an’I Jehovah r’Israely\nFa eo amin’I Jehovah no misy\nfamindram-po sy ny fanavoatana-be."
+      },
+      {
+        "type": "couplet",
+        "content": "Niandry an’I Jehovah aho\nEny niandry azy ny fanahiko\nAry ny teniny no nanantenako"
+      },
+      {
+        "type": "couplet",
+        "content": "Ary Izy no hanavotra ny Israely ho afaka amin’ny, \namin’ny helony ny helony rehetra"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "numero": "STKMVO 76",
+    "title": "TAO AN-TANANA",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tao an-tananan’i Betlehema fahiny\nDia nisy Mpanjaka vao teraka iray, nampahonena\nTsy nisy ny tranom-bahiny ka antranon’omby\nNo nampandrosoin’Andriamanitra Ray"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa tao anatin’ny tena nangina\nDia hiran’anjely nanako no re, hira Hosana !\nNanako i Betlehema ka ireo magy aza\nTonga nanatitra zavatra tao"
+      },
+      {
+        "type": "couplet",
+        "content": "Miora sy ny volamena nateriny tao\nIreo zava-manitra maro ‘zay tsy mety lao\nIreo nandohalika sy niankohoka re\nIreo mpiandry ondry tantsaha aza lasa nandeha"
+      },
+      {
+        "type": "couplet",
+        "content": "Nakany betlehema, teraka tany Jesosy\nIndro nanako ny hira, anjely feno hafaliana\nNameno tanana\nResy ny feon’Heroda, indro ny magy namindra\nNisy ny kintana kely, nitondra azy nakeny\nMba hitsaoka Azy"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "numero": "STKMVO 77",
     "title": "TIAVO HAJAO",
     "author": "Andriamiadamahatratra Miharilaza",
     "theme": "fiderana",
@@ -1571,6 +2029,417 @@
       {
         "type": "couplet",
         "content": "Aza sondriana mibanjina tany\nFa tsy mahasoa ny tsy homban'i Jesoa\nNy eto anie fandalovana ihany\nTsy mety mateza fa tsy maintsy ho lo\nFa katsaho aloha ny fanjakan'Andriamanitra izay no teny\nHanampy anao e ny zava-drehetra\nNa harena, na fahaizana na aina mora fongana ireny\nJesoa aina , fahaizana, haren-tsy voafetra\nKoa tiavo hajao ny Tomponao"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "numero": "STKMVO 78",
+    "title": "TONGA JESOA",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Indro fa terak’anio lay Mpanjaka lehibe \ntonga nofo ho antsika\nMifaia ry velon’o Tompo avo indrindra anie \nHamonjy olo-marobe\nNdeha hitsena sy hidera voninahitra ho Azy"
+      },
+      {
+        "type": "refrain",
+        "content": "Ento ny fanatitrao k’atolory ankehitriny\nZay rehetra foinao omeo Azy tsisy tsiny\nOlo manan-jo tokoa no nanetry tena izao\nEfa reny ny fanaonao manatona Azy ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Tompo tena mora fo, Izy no atao hoe \nJesoa Tompo tsotra tia mizotra\nAmim-pilaminana tsy mpanao anditr’Izy \nna mpanao barofo koa\nFa handamina ny tontolo zay mba ho velom-bolo"
+      },
+      {
+        "type": "refrain",
+        "content": "Ento ny fanatitrao k’atolory ankehitriny\nZay rehetra foinao omeo Azy tsisy tsiny\nOlo manan-jo tokoa no nanetry tena izao\nEfa reny ny fanaonao manatona Azy ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Feno fahefana be nefa tsy nirehareha, \nniafy nijaly tsy mba nifaly\nFahoriana no iainany efa fantany avokoa zay rehetra hanjo\nSatria ny Ray no efa mahay ‘zay nataony tety"
+      }
+    ]
+  },
+  {
+    "title": "TONOMBAVAKA",
+    "author": "RAVELOJAONA Jean",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tompo o! raha ny heriko ihany,\nDia zava-poana ny fisiako\nSatria ny adiko eto an-tany \nManabe ny fanahiako"
+      },
+      {
+        "type": "couplet",
+        "content": "Bitika mila mpiahy\nIzany no manesika ahy,\nHametraka ny fitokiako\nEo Aminao ry efa no fidiako\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Mba raiso ho Anao ny foko\nInty fa hafoiko\nSy izay rehetra momba ahy\nHo Anao tsisy fetra\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Koa raiso re, aza lavina\nIzay no tonombavaka\nMipololotra avy ao\nAnatiko ao"
+      },
+      {
+        "type": "couplet",
+        "content": "Vonikazo tsara felana aho\nNefa tsy haharitr'ela\nFa mbola halazo ka hihintsana\nTsisy intsony izay tavela\n"
+      },
+      {
+        "type": "couplet",
+        "content": "Tany sisa hiafarana\nMalama tsy maintsy ombana\nKanefa tsy haiko ny hangina\nRaha mbola manana anao ho tiana"
+      },
+      {
+        "type": "refrain",
+        "content": "Mba raiso ho Anao ny foko\nInty fa hafoiko\nSy izay rehetra momba ahy\nHo Anao tsisy fetra\n"
+      },
+      {
+        "type": "refrain",
+        "content": "Koa raiso re, aza lavina\nIzay no tonombavaka\nMipololotra avy ao\nAnatiko ao"
+      }
+    ],
+    "id": 79,
+    "numero": "STKMVO 79"
+  },
+  {
+    "id": 80,
+    "numero": "STKMVO 80",
+    "title": "TOROY NY LALANAO AHO",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Nomena ho anay ny Teninao Andriamanitr’o\nMba ho fiainanay sy ho velona aty anaty koa\nNefa ny zanakao lahitokanao mbola nomenao\nHisolo anay mpanota tsy mendrika Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Satria tsy foinao tokoa na dia iray aza\nNy hahavery anay, handao ny lalam-boasoritrao\nKa mbola hitadiavanao mpanota hibebaka Aminao\nFa izay mibebaka Aminao no sitrakao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fa tsy mba misy marina aza eny na dia iray\nNy olona eto an-tany koa dia tsy mba mahitsy fo\nKa manomboka izao ry Tompo toroy ny lalana\nF’Ianao no tena Marina"
+      }
+    ]
+  },
+  {
+    "title": "TS'ISY AVOCAT",
+    "author": "RAZAFIMANANTSOA Fidy",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Raha anio no andro \nIsehony eo amin'ny rahon'ny lanitra\nKa hitsara izao tontolo izao\nEfa vonona ve ianao?"
+      },
+      {
+        "type": "couplet",
+        "content": "raha anio no andro, dia\nary koa ianao xxxx fa horaisiny\ntsy aleo ve anio dia anio\nno segondra farany, hiovan-tsika fo"
+      },
+      {
+        "type": "refrain",
+        "content": "Ts'isy avocat hanafaka anao\nFa dia miova izao dieny izao\nvola na fahaizana, na harena\nTsy hanavotra anao, anio mibebaha"
+      },
+      {
+        "type": "couplet",
+        "content": "Raha \nraha izay no miseho\nmisy ny fotoana hiomanana\ntsy aleo ve anio dia anio\nno segondra farany, hiovan-tsika fo"
+      },
+      {
+        "type": "refrain",
+        "content": "Ts'isy avocat hanafaka anao\nFa dia miova izao dieny izao\nvola na fahaizana, na harena\nTsy hanavotra anao, anio mibebaha"
+      }
+    ],
+    "id": 81,
+    "numero": "STKMVO 81"
+  },
+  {
+    "title": "TSAROAKO RAY O",
+    "author": "RAOELIARIJAONA Aimé",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tsaroako Ray ô ! Tsaroako tokoa \nNy hadisoako nataoko taminao \nTsaroako Ray ô ! hadisoako izay natao \n(Hitalahoako ny famindram-po) \nNataoko Taminao, ry Raiko ô \n(Ray malala ô) Avia mihainoa "
+      },
+      {
+        "type": "refrain",
+        "content": "Fa Kalvary no ahitako anio ny fitiavanao \nAry koa ny famindram-ponao \nHitalahoako (omeo ahy ny) ny famindram-po \nRay malala ô Avia mihainoa "
+      },
+      {
+        "type": "couplet",
+        "content": "Ry Ray malala ô Raha toa halànao \nTsy ho ahy ny fitiavanao \nRaha toa halànao ny fitiavanao ry Ray \n(Hangatahiko koa mba esorinao) \nEsory koa tsy ho ahy ny aina izay \n(Ny aina) Nomenao ho ahy "
+      },
+      {
+        "type": "refrain",
+        "content": "Fa Kalvary no ahitako anio ny fitiavanao \nAry koa ny famindram-ponao \nHitalahoako (omeo ahy ny) Ny famindram-po \nRay malala ô Avia mihainoa "
+      }
+    ],
+    "id": 82,
+    "numero": "STKMVO 82"
+  },
+  {
+    "title": "TSENAO",
+    "author": "RALANDIMANANA Andriamiaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Indray andro izay\nTanatin'ny fahanginan'ny alina fahizay\nNisy tantara iray\nJesoa Mpanjakanao no tonga\nHamonjy izao tontolo izao"
+      },
+      {
+        "type": "couplet",
+        "content": "Nandao ny lampan-drainy\nNafoiny hatramin'ny ainy\nMba ho fanavotana ahy sy ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Mpanjaka nanetry tena\nNitondra ny famonjena\nIndro tsaroana anio\nIndro Izy izao\nTSENAO, TSENAO, TSENAO"
+      }
+    ],
+    "id": 83,
+    "numero": "STKMVO 83"
+  },
+  {
+    "id": 84,
+    "numero": "STKMVO 84",
+    "title": "TSINONTSINONA IZAHAY RY TOMPO ô",
+    "author": "Misamiadana ANDRIANARIVELO",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Inty mibaboka aho, resin’ny Fitia\n    Ka manolotena, raiso ho Anao"
+      },
+      {
+        "type": "refrain",
+        "content": "Raiso ho Anao (tsinontsinon’izahay Ray ô !)\nKa hombay ny Herinao\nKa ny asanay fenoy ny Herinao\nKa ny dera anie ho Anao (voninahitrao) AMEN"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny heloka efa vita hifonako eto izao\n    Ny amiko rehetra, raiso anjakao"
+      },
+      {
+        "type": "couplet",
+        "content": "‘reo namanay koa mba ôvay fo\n    ‘reo izay mania hody Aminao"
+      }
+    ]
+  },
+  {
+    "title": "TSY HADITRA INTSONY",
+    "author": "RALANDIMANANA Andriamihaingosolo",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "refrain",
+        "content": "Tsy haditra intsony aho\nFa hanoa Anao Ray"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny fiainako hatrizay Ray ô\nNandehanako araka ny sitrapoko\nMifon'e! mifon'e!\nTsy haditra intsony aho\nFa hanoa Anao Ray"
+      },
+      {
+        "type": "refrain",
+        "content": "Raiso aho Raiko ô\nFa zanaka malalanao\nRaiso aho raiso re\nFa vonona hanaraka Anao\nNy andro sisa iainako\nDia hanompoko\nsy hanajako Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Ny rendrarendra niainako\nNy filibana sy ireo hadalako\nMifon'e ! mifon'e !\nTsy haditra intsony aho\nFa hanoa Anao Ray"
+      },
+      {
+        "type": "refrain",
+        "content": "Raiso aho Raiko ô\nFa zanaka malalanao\nRaiso aho raiso re\nFa vonona hanaraka Anao\nNy andro sisa iainako\nDia hanompoko\nsy hanajako Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Fantatro koa 'reo didinao\nNefa niniako dikaina izy ireny\nMifon'e ! mifon'e !\nTsy haditra intsony aho\nFa hanoa Anao Ray"
+      },
+      {
+        "type": "refrain",
+        "content": "Raiso aho Raiko ô\nFa zanaka malalanao\nRaiso aho raiso re\nFa vonona hanaraka Anao\nNy andro sisa iainako\nDia hanompoko\nsy hanajako Anao"
+      },
+      {
+        "type": "couplet",
+        "content": "hmm...\nhmm...\nMifon'e ! mifon'e !\nTsy haditra intsony aho\nFa hanoa Anao Ray"
+      },
+      {
+        "type": "refrain",
+        "content": "Raiso aho Raiko ô\nFa zanaka malalanao\nRaiso aho raiso re\nFa vonona hanaraka Anao\nNy andro sisa iainako\nDia hanompoko\nsy hanajako Anao"
+      }
+    ],
+    "id": 85,
+    "numero": "STKMVO 85"
+  },
+  {
+    "id": 86,
+    "numero": "STKMVO 86",
+    "title": "TS’ISY DIKANY",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Ts’isy dikany ny fiainako Tompo ô raha tsy eo Ianao\nNa ny hery sy fahaizako\nTsy misy dikany avokoa na ‘zay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
+      },
+      {
+        "type": "couplet",
+        "content": "Ts’isy dikany ny tenako Tompo ô raha tsy misy Anao\nNa ny anio sy ny ampitsoko\nTsy misy dikany avokoa na ‘zay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
+      },
+      {
+        "type": "refrain",
+        "content": "Toy izany aho rehefa tsy eo Ianao\nMiaina aho fa velon’ahiahy\nMiova avokoa izay faritako ho ahy\nRaha tsy eo Ianao hitantan’ahy\nRaha tsy eo Ianao hiaro ahy\nTsy misy dikany aho raha tsy eo Ianao"
+      },
+      {
+        "type": "couplet",
+        "content": "Ts’isy dikany ny hoaviko, zay rehetra mba hananako\nTompo ô raha eo tsy eo ianao hitahy ahy\nTsy misy dikany avokoa na izay heveriko hahasoa\nRaha tsy eo Ianao ry Jesoa Tompoko"
+      },
+      {
+        "type": "refrain",
+        "content": "Ny tananao…"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "numero": "STKMVO 87",
+    "title": "VAVAKA HO AN’NY NOSY",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tompo ô, raha mivavaka aho anio ho an’ity nosy ity\nRakotra haizina sy feno fihatsaram-belatsihy\nDia niantso mafy Anao ka hifona hitalaho\nHiverenanao ka hamonjy indray ity nosy maminay"
+      },
+      {
+        "type": "couplet",
+        "content": "Tompo ô, mandohalika aho eto anatrehanao\nAndriamanitr’ô ny helokay fafao\nNy herin’ny Fanahy Masinao, Ianao irery no mahavita izao\nKa mifona aminao izaho mitalaho ity nosy ity re mba afaho fa :"
+      },
+      {
+        "type": "couplet",
+        "content": "Mila Anao, tena mila Anao Andriamanitr’o\nAndriamanitr’o, Andriamanitr’o! ô midina ka avia \nhatsory re ny tananao: miala satana! miala satana!"
+      },
+      {
+        "type": "couplet",
+        "content": "Mitalaho, tena mitalaho, Fanahy Masina ô\nFa ny herinao, fa ny herinao no mahavita izao\nKa izao nosinay izao, izay rehetra monina ao\nAndriamanitra ô, apetraka aminao"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "numero": "STKMVO 88",
+    "title": "VEHIVAVY JANGA",
+    "author": "Fidy RAZAFIMANANTSOA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Kianjan’ny tempoly no nisy azy\nKa nitoriteny sy nampianatra ire fariseo\nReo mpanora-dalàna tonga haka fanahy\nKa nitondra vehivavy janga iray azony"
+      },
+      {
+        "type": "refrain",
+        "content": "REF : Vehivavy Janga nefa tsy voapanga\nFa ianao Jesosy no nanafaka\nF’izay tsy nanota taminareo no aoka hirorabato azy\nDia samy lasa izy ireo fa tsy nisy sahy namely\nTs’isy nanameloka anao ve na dia iray akory aza ?\nHoy Jesosy : izaho koa tsy hanameloka anao"
+      },
+      {
+        "type": "couplet",
+        "content": "Amin’ny lalanan’I Mosesy\nDia mandidy antsika hitorabato janga toy izao\nZany no nolazainy mba hakany fanahy\nKa najoro teo alohan’I Jesosy vehivavy"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "numero": "STKMVO 89",
+    "title": "VELONA ATO ANATIKO",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Tsy mba toy izao Jesoa ty lalako raha lavitr’Anao\nF’efa tofoka sy lao izao tontolo izao\nSaingy mbola nisy ny famindram-ponao tamiko\nNanafaka ary koa naneho fitiavana ahy"
+      },
+      {
+        "type": "refrain",
+        "content": "Ankehitriny Tompo ô navotanao aho\n\t\tTamin’ny ady mahamay zay nitsapana ahy\n\t\tKa sahiko miteny hoe : tsy izaho no velona\n\t\tFa Ianao no Velona ato anatiko"
+      },
+      {
+        "type": "couplet",
+        "content": "Raha ny faniriako dia izao: ny ho Anao ry Tompo ô\nHiaraka Aminao tokoa, izay no mamiko\nIndrisy fa maninton’ahy mafy ny amin’izao tontolo izao\nManakana ahy tsy hanao ny asanao"
+      },
+      {
+        "type": "refrain",
+        "content": "Ankehitriny Tompo ô navotanao aho\n\t\tTamin’ny ady mahamay zay nitsapana ahy\n\t\tKa sahiko miteny hoe : tsy izaho no velona\n\t\tFa Ianao no Velona ato anatiko"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "numero": "STKMVO 90",
+    "title": "VOAVELA NY HELOKAO",
+    "author": "Misamiadana ANDRIANARIVELO",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Indro aho homboana ho anao\nZaho ‘lay Tompo Tia nolavinao\nTonga hisolo voina anao\nKa ny rà izay nalatsako famelana ny helokao"
+      },
+      {
+        "type": "couplet",
+        "content": "Vonon’aho hihaino anao\nNa mpanota aza ianao\nNefa menatr’aho hiantsoantso hoe : Tompo ô! sasao\nBe ny otako zay mandifotr’ahy"
+      },
+      {
+        "type": "couplet",
+        "content": "Tompo ô! henoy ny antsoantso izao mitaraina hoe\nJereo ny heloko fa neniko avokoa\nHifonako tokoa ka hiandrandra Anao ity zanakao\nManantena koa ny herin’ny fitiavanao\nNahafoy ny Aiko Aho ho anao\nVoavela ny helokao"
+      }
+    ]
+  },
+  {
+    "title": "VONJEO NY TANINAY",
+    "author": "RAZAFIMANANTSOA Fidy",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Eto ampototry ny Hazo Fijalianao\nTompo ô no hivalozako indray\nElaela tsy nihaonana\nFa variana tamin'ny fiainana\nka nandao ny lapanao re izahay"
+      },
+      {
+        "type": "couplet",
+        "content": "Reradreraka sy trotrak'ireo zanakao ireo\nNoana sy narary, vao nahatsiaro Anao\nElaela tokoa mantsy izay\ntsy nihaonantsika izay\nFa variana sy sondriana niliba izahay"
+      },
+      {
+        "type": "couplet",
+        "content": "Nopotehinay tokoa Tompo ô\nRavanay ny zava-boarinao\nTs'isy hiainanay intsony ety\nEfa potik'ity tany ity\nKa hiverina Aminao zahay Tompo ô"
+      },
+      {
+        "type": "refrain",
+        "content": "Andriamanitr'ô, fantatray hatramin'izao\nF'izahay no niala, tsy tamana nandao ny valanao\nAndriamanitr'ô loza no nanjo anay\nAreti-mandoza mosary ts'isy rano,\nmaty izahay, vonjeo ry Ray"
+      },
+      {
+        "type": "couplet",
+        "content": "Andriamanitr'ô, mitalaho e mitalaho\nIndreto izahay manenina,\nmamelà ity nosinay"
+      },
+      {
+        "type": "couplet",
+        "content": "Mitalaho zahay Tompo ô\nVonjeo ty Nosinay\nAndriamanitr'o\nVonjeo ny Nosinay"
+      }
+    ],
+    "id": 91,
+    "numero": "STKMVO 91"
+  },
+  {
+    "id": 92,
+    "numero": "STKMVO 92",
+    "title": "VONONA AHO HITORY",
+    "author": "Rinà DIMBINANDRASANA",
+    "theme": "fiderana",
+    "sections": [
+      {
+        "type": "couplet",
+        "content": "Efa sitrakao Ray no niantso anay\nTanaty alinkisa hanambara ny\nFahasoavanao sy ny hatsaranao\nAmin’izao tontolo izao"
+      },
+      {
+        "type": "refrain",
+        "content": "Koa tafio ny herim-po, Fanahy ary saina koa\nFa ny fiderana Anao no tenenin’ny vavako\nKa ny nofo rehetra samy hankalaza\nNy Anarany Masina mandrakizay"
+      },
+      {
+        "type": "couplet",
+        "content": "Ndreto ary izahay vonona tokoa\nMba ho irakao sy history Anao\nEny na ho mora na ho sarotra\nDia vonona tokoa zahay"
       }
     ]
   }
